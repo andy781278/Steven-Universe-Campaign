@@ -1,0 +1,3 @@
+#Gems/Caste 
+
+Still a part of the aristocracy and directly under the diamonds in their court. These gems aren’t as strong or valued, but they are still very respected. They usually aren’t combat focused, so they have personal guards. They talk to their diamond about once every few months. There’s a few tens of thousands of them (0.1%). Ex: Sapphire/Padparadscha (Advisors), and Heaven/Earth Beetles (Scientists/Inventors).

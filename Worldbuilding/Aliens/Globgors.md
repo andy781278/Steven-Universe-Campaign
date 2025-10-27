@@ -1,3 +1,7 @@
+---
+aliases:
+  - Globgor
+---
 #Aliens 
 ![[Pasted image 20251027103008.png]]
 Strong, intimidating yet humble giants living in the solar system JXJ. Carbon based, living in grassy meadows in dirt huts like hobbits. Usually 8-9 ft. Tribal age, they are peaceful herbivores that don’t seek out violence and have no ambition. They treasure tradition and family. They are musically gifted and magically gifted. They can evoke elemental magic, transformations, and alter minds. They can only do one thing per person though. They each specialize in an instrument. There is a music master that knows all instruments, but there is only 1 such Globgor alive at once, and there is a council of music that predicts and trains the next Music Master every 100 years. They say that the music master can produce all music at once, and they can control all organisms with their music, for the purpose of having fun and peace.  

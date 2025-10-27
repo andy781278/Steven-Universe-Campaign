@@ -1,0 +1,3 @@
+#Gems/Caste 
+
+These are the specialists meant to do specific jobs. They work under Elite gems and sometimes diamonds to perform specific missions. They are borderline aristocratic, and have maybe 1 guard or pearl. There are around a few tens of thousands of them (0.1%). They speak to their diamond maybe once every few years. Ex: Lapis (Terraform), Desert Glass (Sand Terraform), Sugilite (Demolition), Topaz(Guard).

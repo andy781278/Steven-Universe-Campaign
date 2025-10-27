@@ -899,8 +899,7 @@
       "Players/Player Gem Rules/Photokinetic.md"
     ],
     "Plot": [
-      "Plot/Brainstorm.md",
-      "Plot/Chill Dudaz.md"
+      "Plot/Brainstorm.md"
     ],
     "Session Notes": [],
     "Templates": [],
@@ -914,7 +913,8 @@
       "Worldbuilding/Gems",
       "Worldbuilding/Aliens",
       "Worldbuilding/Factions",
-      "Worldbuilding/Locations"
+      "Worldbuilding/Locations",
+      "Worldbuilding/Characters"
     ],
     "Worldbuilding/Aliens": [
       "Worldbuilding/Aliens/Aliens.md",
@@ -928,12 +928,27 @@
       "Worldbuilding/Aliens/Polymorians.md",
       "Worldbuilding/Aliens/Khajiits.md"
     ],
+    "Worldbuilding/Characters": [
+      "Worldbuilding/Characters/Jabada Grey.md",
+      "Worldbuilding/Characters/Tiesto Gambino.md",
+      "Worldbuilding/Characters/Johnny Piratehook.md",
+      "Worldbuilding/Characters/Rose Quarts.md",
+      "Worldbuilding/Characters/Simion Blyat.md",
+      "Worldbuilding/Characters/Shadow Agate.md",
+      "Worldbuilding/Characters/Hollyblue Agate.md",
+      "Worldbuilding/Characters/Pad.md",
+      "Worldbuilding/Characters/Bis.md",
+      "Worldbuilding/Characters/Sanchez Hernandez.md",
+      "Worldbuilding/Characters/Mech Man.md"
+    ],
     "Worldbuilding/Factions": [
       "Worldbuilding/Factions/The Diamond Authority.md",
       "Worldbuilding/Factions/The Free Planets Coalition.md",
       "Worldbuilding/Factions/Piratars.md",
       "Worldbuilding/Factions/The Crystal Gems.md",
-      "Worldbuilding/Factions/Other Rebellious Factions.md"
+      "Worldbuilding/Factions/Other Rebellious Factions.md",
+      "Worldbuilding/Factions/Chill Dudaz.md",
+      "Worldbuilding/Factions/Morrigon.md"
     ],
     "Worldbuilding/Gems": [
       "Worldbuilding/Gems/Gem Origin.md",
@@ -943,10 +958,57 @@
       "Worldbuilding/Gems/Gem Ships.md",
       "Worldbuilding/Gems/Gem Government.md",
       "Worldbuilding/Gems/Gem Social Hierarchy.md",
+      "Worldbuilding/Gems/Gem Caste",
       "Worldbuilding/Gems/Gem Court Culture.md",
       "Worldbuilding/Gems/Gem Society Logistics.md",
       "Worldbuilding/Gems/Gem Population.md",
       "Worldbuilding/Gems/Gem Robots.md"
+    ],
+    "Worldbuilding/Gems/Gem Caste": [
+      "Worldbuilding/Gems/Gem Caste/Diamond",
+      "Worldbuilding/Gems/Gem Caste/Beryl",
+      "Worldbuilding/Gems/Gem Caste/Garnet",
+      "Worldbuilding/Gems/Gem Caste/Elite",
+      "Worldbuilding/Gems/Gem Caste/Specialist",
+      "Worldbuilding/Gems/Gem Caste/Manager",
+      "Worldbuilding/Gems/Gem Caste/Quarts",
+      "Worldbuilding/Gems/Gem Caste/Worker",
+      "Worldbuilding/Gems/Gem Caste/Slave",
+      "Worldbuilding/Gems/Gem Caste/Off-Color"
+    ],
+    "Worldbuilding/Gems/Gem Caste/Beryl": [
+      "Worldbuilding/Gems/Gem Caste/Beryl/Beryl.md",
+      "Worldbuilding/Gems/Gem Caste/Beryl/Aquamarine.md"
+    ],
+    "Worldbuilding/Gems/Gem Caste/Diamond": [
+      "Worldbuilding/Gems/Gem Caste/Diamond/White Diamond.md",
+      "Worldbuilding/Gems/Gem Caste/Diamond/Yellow Diamond.md",
+      "Worldbuilding/Gems/Gem Caste/Diamond/Blue Diamond.md",
+      "Worldbuilding/Gems/Gem Caste/Diamond/Pink Diamond.md"
+    ],
+    "Worldbuilding/Gems/Gem Caste/Elite": [
+      "Worldbuilding/Gems/Gem Caste/Elite/Elite.md"
+    ],
+    "Worldbuilding/Gems/Gem Caste/Garnet": [
+      "Worldbuilding/Gems/Gem Caste/Garnet/Garnet.md"
+    ],
+    "Worldbuilding/Gems/Gem Caste/Manager": [
+      "Worldbuilding/Gems/Gem Caste/Manager/Manager.md"
+    ],
+    "Worldbuilding/Gems/Gem Caste/Off-Color": [
+      "Worldbuilding/Gems/Gem Caste/Off-Color/Off-Color.md"
+    ],
+    "Worldbuilding/Gems/Gem Caste/Quarts": [
+      "Worldbuilding/Gems/Gem Caste/Quarts/Quarts.md"
+    ],
+    "Worldbuilding/Gems/Gem Caste/Slave": [
+      "Worldbuilding/Gems/Gem Caste/Slave/Slave.md"
+    ],
+    "Worldbuilding/Gems/Gem Caste/Specialist": [
+      "Worldbuilding/Gems/Gem Caste/Specialist/Specialist.md"
+    ],
+    "Worldbuilding/Gems/Gem Caste/Worker": [
+      "Worldbuilding/Gems/Gem Caste/Worker/Worker.md"
     ],
     "Worldbuilding/Locations": [
       "Worldbuilding/Locations/Homeworld.md",

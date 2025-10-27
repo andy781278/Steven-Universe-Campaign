@@ -4,3 +4,5 @@ aliases:
   - Diamond Authority
 ---
 #Gems/Factions 
+
+ ![[Gem Government]]

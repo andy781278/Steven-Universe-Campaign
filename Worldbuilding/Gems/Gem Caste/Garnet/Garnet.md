@@ -1,0 +1,3 @@
+#Gems/Caste 
+
+Slightly lower ranking than Beryls, and are all army commanders. These are the most physically intimidating, strongest, and commandeering gems. They are double the size of a pearl, so around 3-4 meters or 9-12 ft. There are around a few thousand of them (0.01%). On their own, the physical prowess can almost match a diamond. They talk to their diamond about once a month. Ex: Hessonite, Demantoids, Pyropes.
