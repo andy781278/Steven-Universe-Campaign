@@ -1,0 +1,3 @@
+#Aliens/Locations 
+![[Pasted image 20251027105349.png]]
+Massive behemoths that wander the cosmos, concentrated in the Solar Dragons Region. Are friendly and know Old Globgor language only, talks like jormungander. Grows up to hundreds of kilometers in length, is pretty much unkillable, since even nukes only damage it slightly. Hard to build anything in their territory since they would just accidentally smash it to smithereens.

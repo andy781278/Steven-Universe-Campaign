@@ -1,0 +1,3 @@
+#Gems/Society
+
+Robonoids are used by various classes for various purposes that usually are too simple for a gem to do. They clean, repair, haul, transport, guard, hunt, and surveillance. Based on what’s in the show, they are not that prevalent, so let’s say that there are around ⅕ the amount of robots compared to gems, around 8 million. There must also be a Robot Manufacturing plant, and logistic buildings determining how to distribute the robots, and research facilities creating more robots. We can have facets who focus entirely on robot production.

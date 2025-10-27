@@ -1,0 +1,3 @@
+#Aliens 
+![[Pasted image 20251027103251.png]]
+Bug people, they have wings and can fly up to 300 mph, 10 ft in length on average but can grow up to 12 ft. Originated from the planet of Xelthor. They speak in low frequency vibrations, but they do have a society, and they have made it to an early civilization. They feed by injecting venom through their stinger, then spitting acid and slurping up food like soup. They have a hard exoskeleton that is as hard as steel. They are emotionally vulnerable and are quite stupid. After the gems came along, their planet dominated and their population plummeted. However, through cybernetic enhancements they obtained vocal augmentations on free-planets and survived as a minority.

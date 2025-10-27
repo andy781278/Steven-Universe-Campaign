@@ -1,0 +1,2 @@
+#Aliens 
+You know what they are. These humans are in the stone age, they have language and some have built relatively large villages, but no civilization. When gems came, they kind of just situated themselves, and humans can’t do anything about it.

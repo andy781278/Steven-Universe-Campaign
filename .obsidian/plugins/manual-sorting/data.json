@@ -2,16 +2,50 @@
   "customFileOrder": {
     "/": [
       "DM Screen",
+      "Plot",
       "Players",
       "Worldbuilding",
       "Daggerheart",
       "Tools",
       "Session Notes",
       "Assets",
-      "Templates",
-      "Steven Universe Campaign.md"
+      "Steven Universe Campaign.md",
+      "Templates"
     ],
-    "Assets": [],
+    "Assets": [
+      "Assets/Pictures"
+    ],
+    "Assets/Pictures": [
+      "Assets/Pictures/Pasted image 20251027103153.png",
+      "Assets/Pictures/Pasted image 20251027112726.png",
+      "Assets/Pictures/Pasted image 20251027103052.png",
+      "Assets/Pictures/Pasted image 20251027103008.png",
+      "Assets/Pictures/Pasted image 20251027102543.png",
+      "Assets/Pictures/Pasted image 20251027103210.png",
+      "Assets/Pictures/Pasted image 20251027103213.png",
+      "Assets/Pictures/Pasted image 20251027103215.png",
+      "Assets/Pictures/Pasted image 20251027103251.png",
+      "Assets/Pictures/Pasted image 20251027103301.png",
+      "Assets/Pictures/Pasted image 20251027103445.png",
+      "Assets/Pictures/Pasted image 20251027103312.png",
+      "Assets/Pictures/Pasted image 20251027103321.png",
+      "Assets/Pictures/Pasted image 20251027104816.png",
+      "Assets/Pictures/Pasted image 20251027103503.png",
+      "Assets/Pictures/Pasted image 20251027104339.png",
+      "Assets/Pictures/Pasted image 20251027104822.png",
+      "Assets/Pictures/Pasted image 20251027104842.png",
+      "Assets/Pictures/Pasted image 20251027104902.png",
+      "Assets/Pictures/Pasted image 20251027104927.png",
+      "Assets/Pictures/Pasted image 20251027105025.png",
+      "Assets/Pictures/Pasted image 20251027105112.png",
+      "Assets/Pictures/Pasted image 20251027105129.png",
+      "Assets/Pictures/Pasted image 20251027105139.png",
+      "Assets/Pictures/Pasted image 20251027105235.png",
+      "Assets/Pictures/Pasted image 20251027105349.png",
+      "Assets/Pictures/Pasted image 20251027110355.png",
+      "Assets/Pictures/Pasted image 20251027112829.png",
+      "Assets/Pictures/Pasted image 20251027112840.png"
+    ],
     "Daggerheart": [
       "Daggerheart/abilities",
       "Daggerheart/adversaries",
@@ -842,8 +876,32 @@
       "Daggerheart/weapons/Widgast Pendant.md",
       "Daggerheart/weapons/Yutari Bloodbow.md"
     ],
-    "DM Screen": [],
-    "Players": [],
+    "DM Screen": [
+      "DM Screen/DM Info.md",
+      "DM Screen/Example Difficulty.md",
+      "DM Screen/Background Music.md",
+      "DM Screen/Battle Guide.md",
+      "DM Screen/CATS.md"
+    ],
+    "Players": [
+      "Players/Morrigan.md",
+      "Players/Jas Kween.md",
+      "Players/No King.md",
+      "Players/Kris.md",
+      "Players/Chrys.md",
+      "Players/Player Gem Rules"
+    ],
+    "Players/Player Gem Rules": [
+      "Players/Player Gem Rules/Player Gem Rules.md",
+      "Players/Player Gem Rules/Shapeshifting.md",
+      "Players/Player Gem Rules/Bubbling.md",
+      "Players/Player Gem Rules/Fusion.md",
+      "Players/Player Gem Rules/Photokinetic.md"
+    ],
+    "Plot": [
+      "Plot/Brainstorm.md",
+      "Plot/Chill Dudaz.md"
+    ],
     "Session Notes": [],
     "Templates": [],
     "Tools": [
@@ -851,9 +909,61 @@
       "Tools/Encounter Builder.md",
       "Tools/Excalidraw"
     ],
-    "Worldbuilding": [],
-    "Tools/Excalidraw": [
-      "Tools/Excalidraw/Drawing 2025-10-27 04.53.22.excalidraw.md"
+    "Tools/Excalidraw": [],
+    "Worldbuilding": [
+      "Worldbuilding/Gems",
+      "Worldbuilding/Aliens",
+      "Worldbuilding/Factions",
+      "Worldbuilding/Locations"
+    ],
+    "Worldbuilding/Aliens": [
+      "Worldbuilding/Aliens/Aliens.md",
+      "Worldbuilding/Aliens/Globgors.md",
+      "Worldbuilding/Aliens/Humans.md",
+      "Worldbuilding/Aliens/Talubians.md",
+      "Worldbuilding/Aliens/Goblinos.md",
+      "Worldbuilding/Aliens/Snaples.md",
+      "Worldbuilding/Aliens/Kleenex.md",
+      "Worldbuilding/Aliens/Jabadahuts.md",
+      "Worldbuilding/Aliens/Polymorians.md",
+      "Worldbuilding/Aliens/Khajiits.md"
+    ],
+    "Worldbuilding/Factions": [
+      "Worldbuilding/Factions/The Diamond Authority.md",
+      "Worldbuilding/Factions/The Free Planets Coalition.md",
+      "Worldbuilding/Factions/Piratars.md",
+      "Worldbuilding/Factions/The Crystal Gems.md",
+      "Worldbuilding/Factions/Other Rebellious Factions.md"
+    ],
+    "Worldbuilding/Gems": [
+      "Worldbuilding/Gems/Gem Origin.md",
+      "Worldbuilding/Gems/Gem Evolution.md",
+      "Worldbuilding/Gems/Gem Anatomy.md",
+      "Worldbuilding/Gems/Gem History.md",
+      "Worldbuilding/Gems/Gem Ships.md",
+      "Worldbuilding/Gems/Gem Government.md",
+      "Worldbuilding/Gems/Gem Social Hierarchy.md",
+      "Worldbuilding/Gems/Gem Court Culture.md",
+      "Worldbuilding/Gems/Gem Society Logistics.md",
+      "Worldbuilding/Gems/Gem Population.md",
+      "Worldbuilding/Gems/Gem Robots.md"
+    ],
+    "Worldbuilding/Locations": [
+      "Worldbuilding/Locations/Homeworld.md",
+      "Worldbuilding/Locations/Jackson.md",
+      "Worldbuilding/Locations/Space Tear Exclusion Zone.md",
+      "Worldbuilding/Locations/Lyncaster Supernova.md",
+      "Worldbuilding/Locations/Carina Nebula.md",
+      "Worldbuilding/Locations/Snaponia War Zone.md",
+      "Worldbuilding/Locations/FPC War Zone.md",
+      "Worldbuilding/Locations/Brighton.md",
+      "Worldbuilding/Locations/Catan.md",
+      "Worldbuilding/Locations/Citadel.md",
+      "Worldbuilding/Locations/JXJ.md",
+      "Worldbuilding/Locations/Fourier Armata.md",
+      "Worldbuilding/Locations/Macan.md",
+      "Worldbuilding/Locations/Solar Dragons.md",
+      "Worldbuilding/Locations/Oxoron.md"
     ]
   },
   "draggingEnabled": true,

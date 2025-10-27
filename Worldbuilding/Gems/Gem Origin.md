@@ -1,0 +1,5 @@
+#Gems
+
+Gems are humanoid creatures from the star system Mayall II of the Andromeda Galaxy. Mayall II is a quadruple-star system featuring four stars in a stable orbit; there are two very close stars orbiting each other rapidly. They are orbited by a third star as in a triple star system. These three stars are orbited by a distant fourth star. There are three planets in orbit with the most distant star, also referred to as Xypha. The closest planet orbiting Xypha is the birthplace of gems, and is referred to by the gems as “Homeworld.”
+
+Homeworld is tidally locked to Xypha, the bright side of Homeworld has an average surface temperature of \~80 degrees Celsius, while the dark side has \~-120 degrees Celsius. There is running water in the twilight zone, along the rim of the planet. Homeworld is of a similar size and elemental composition compared to Earth. Their planet is 1.25x the size of Earth, made up of mostly oxygen and silicon, and has an iron core. Their atmosphere is 64% Nitrogen, 35% Oxygen, and 1% other gases like Argon and Carbon dioxide.

@@ -23,6 +23,66 @@
       "forceIframe": false,
       "customCss": "",
       "customJs": ""
+    },
+    {
+      "url": "https://app.demiplane.com/nexus/daggerheart/character-sheet/8b085b10-72af-4372-9612-da84a86e420a",
+      "displayName": "Morrigan",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://app.demiplane.com/nexus/daggerheart/character-sheet/d8e56576-61a9-4649-9d67-f99241fe2dc4",
+      "displayName": "JasKween",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://app.demiplane.com/nexus/daggerheart/character-sheet/1cba9a13-c44d-4461-a67b-839ac69df6c3",
+      "displayName": "NoKing",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://app.demiplane.com/nexus/daggerheart/character-sheet/b5458092-0f1d-4852-a116-98dde3305da7",
+      "displayName": "Kris",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://app.demiplane.com/nexus/daggerheart/character-sheet/55ac7baa-374f-4226-872c-dbc3bfa50fb6",
+      "displayName": "Chrys",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
     }
   ],
   "padding": 5

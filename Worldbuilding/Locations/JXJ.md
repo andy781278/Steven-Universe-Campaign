@@ -1,0 +1,2 @@
+#Gems/Locations 
+The solar system inhabited the original Globgors, a space-faring civilization that used to roam the lands a few million years ago. After nuking themselves back to the stone age, they wandered the earth as passive gatherers. A lot of their relics survived, however, and are picked up by the DA after their occupation of JXJ, including the dyson swarm surrounding the sun. Integrating such technologies is a lengthy process, new progress is still being made, with scientists scouring the ruins looking for clues.
