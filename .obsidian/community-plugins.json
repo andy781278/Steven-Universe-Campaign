@@ -1,9 +1,13 @@
 [
-  "obsidian-git",
   "obsidian-icon-folder",
   "buttons",
   "fantasy-content-generator",
   "fantasy-name",
   "obsidian-5e-statblocks",
-  "obsidian-dice-roller"
+  "obsidian-dice-roller",
+  "obsidian-custom-frames",
+  "manual-sorting",
+  "obsidian-admonition",
+  "obsidian-excalidraw-plugin",
+  "obsidian-leaflet-plugin"
 ]

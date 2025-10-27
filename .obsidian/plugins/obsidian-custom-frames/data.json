@@ -1,0 +1,29 @@
+{
+  "frames": [
+    {
+      "url": "https://freshcutgrass.app/",
+      "displayName": "Encounter Builder",
+      "icon": "wrench",
+      "hideOnMobile": false,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://app.demiplane.com/characters",
+      "displayName": "Demiplane",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "769d602cf0b42667",
+        "id": "d5e009999ee6c7f0",
         "type": "tabs",
         "children": [
           {
-            "id": "608a5d1685969b23",
+            "id": "0e3248ce13ab3468",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#reminders",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,29 +172,23 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "7c98519e6822bfcb",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "2a5d932fbb85a3ae",
+            "id": "608a5d1685969b23",
             "type": "leaf",
             "state": {
-              "type": "fantasy-statblocks-creature-pane",
+              "type": "graph",
               "state": {},
-              "icon": "skull",
-              "title": "Combatant"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,13 +201,32 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "ab4a06ec39cacd82",
+  "active": "0e3248ce13ab3468",
   "lastOpenFiles": [
+    "Daggerheart/contents/Turn Order and Action Economy.md",
+    "Templates",
+    "Assets",
+    "Session Notes",
+    "Daggerheart/contents/Weapons.md",
+    "Daggerheart/contents/Primary Weapon Tables.md",
+    "Daggerheart/contents/Domain Card Reference.md",
+    "Daggerheart/contents/Downtime.md",
+    "Daggerheart/contents/Ancestries.md",
+    "Daggerheart/contents/Additional GM Guidance.md",
+    "Daggerheart/contents/Additional Rules.md",
+    "Worldbuilding",
+    "Players",
+    "Tools/Encounter Builder.md",
+    "DM Screen",
+    "Tools/Demiplane Characters.md",
+    "Daggerheart/adversaries/Acid Burrower.md",
+    "Steven Universe Campaign.md",
+    "Tools",
+    "Daggerheart/domains/Midnight.md",
     "Daggerheart/weapons/Bloodstaff.md",
     "Daggerheart/subclasses/Beastbound.md",
     "Daggerheart/subclasses/Call of the Brave.md",
@@ -226,29 +239,8 @@
     "Daggerheart/subclasses/Troubadour.md",
     "Daggerheart/subclasses/School of Knowledge.md",
     "Daggerheart/items/Bloodstone.md",
-    "Daggerheart/items/Vial of Darksmoke Recipe.md",
-    "Daggerheart/items/Stride Relic.md",
-    "Daggerheart/items/Ring of Resistance.md",
-    "Daggerheart/items/Glamour Stone.md",
-    "Daggerheart/items/Glider.md",
-    "Daggerheart/items/Companion Case.md",
-    "Daggerheart/items/Bag of Ficklesand.md",
-    "Daggerheart/items/Airblade Charm.md",
-    "Daggerheart/items/Alistairs Torch.md",
-    "Daggerheart/frames/The Witherwild.md",
-    "Steven Universe Campaign.md",
-    "Daggerheart/abilities/A Soldiers Bond.md",
-    "Daggerheart/subclasses/Warden of Renewal.md",
-    "Daggerheart/subclasses/Syndicate.md",
     "Daggerheart/subclasses",
     "Daggerheart/items",
-    "Daggerheart/frames",
-    "Daggerheart/environments",
-    "Daggerheart/domains",
-    "Daggerheart/contents",
-    "Daggerheart/consumables",
-    "Daggerheart/communities",
-    "Daggerheart/classes",
-    "Daggerheart/armor"
+    "Daggerheart/frames"
   ]
 }

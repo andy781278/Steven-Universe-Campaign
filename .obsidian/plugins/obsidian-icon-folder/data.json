@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiWrench",
       "🏛",
       "👚",
       "🐒",
-      "LiPower",
-      "🪄"
+      "LiPower"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,9 +35,5 @@
     "useInternalPlugins": false
   },
   "Daggerheart": "LiSword",
-  "Daggerheart/abilities": "LiPower",
-  "Daggerheart/adversaries": "👹",
-  "Daggerheart/ancestries": "🐒",
-  "Daggerheart/armor": "👚",
-  "Daggerheart/classes": "🏛"
+  "Tools": "LiWrench"
 }
