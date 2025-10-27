@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a2d758d8865bc1c",
+        "id": "769d602cf0b42667",
         "type": "tabs",
         "children": [
           {
-            "id": "9acaf82680f97025",
+            "id": "608a5d1685969b23",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,14 +162,39 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "a7ca225426f2f29b",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
+      },
+      {
+        "id": "7c98519e6822bfcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a5d932fbb85a3ae",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,15 +207,48 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "ab4a06ec39cacd82",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Daggerheart/weapons/Bloodstaff.md",
+    "Daggerheart/subclasses/Beastbound.md",
+    "Daggerheart/subclasses/Call of the Brave.md",
+    "Daggerheart/subclasses/Divine Wielder.md",
+    "Daggerheart/subclasses/School of War.md",
+    "Daggerheart/subclasses/Wordsmith.md",
+    "Daggerheart/subclasses/Winged Sentinel.md",
+    "Daggerheart/subclasses/Wayfinder.md",
+    "Daggerheart/subclasses/Warden of the Elements.md",
+    "Daggerheart/subclasses/Troubadour.md",
+    "Daggerheart/subclasses/School of Knowledge.md",
+    "Daggerheart/items/Bloodstone.md",
+    "Daggerheart/items/Vial of Darksmoke Recipe.md",
+    "Daggerheart/items/Stride Relic.md",
+    "Daggerheart/items/Ring of Resistance.md",
+    "Daggerheart/items/Glamour Stone.md",
+    "Daggerheart/items/Glider.md",
+    "Daggerheart/items/Companion Case.md",
+    "Daggerheart/items/Bag of Ficklesand.md",
+    "Daggerheart/items/Airblade Charm.md",
+    "Daggerheart/items/Alistairs Torch.md",
+    "Daggerheart/frames/The Witherwild.md",
     "Steven Universe Campaign.md",
-    "image2.md",
-    "image1.md",
-    "Steven-Universe-Campaign"
+    "Daggerheart/abilities/A Soldiers Bond.md",
+    "Daggerheart/subclasses/Warden of Renewal.md",
+    "Daggerheart/subclasses/Syndicate.md",
+    "Daggerheart/subclasses",
+    "Daggerheart/items",
+    "Daggerheart/frames",
+    "Daggerheart/environments",
+    "Daggerheart/domains",
+    "Daggerheart/contents",
+    "Daggerheart/consumables",
+    "Daggerheart/communities",
+    "Daggerheart/classes",
+    "Daggerheart/armor"
   ]
 }

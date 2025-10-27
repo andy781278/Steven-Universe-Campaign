@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "🏛",
+      "👚",
+      "🐒",
+      "LiPower",
+      "🪄"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,11 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Daggerheart": "LiSword",
+  "Daggerheart/abilities": "LiPower",
+  "Daggerheart/adversaries": "👹",
+  "Daggerheart/ancestries": "🐒",
+  "Daggerheart/armor": "👚",
+  "Daggerheart/classes": "🏛"
 }
