@@ -845,15 +845,19 @@
     "DM Screen": [],
     "Players": [],
     "Session Notes": [],
+    "Templates": [],
     "Tools": [
       "Tools/Demiplane Characters.md",
-      "Tools/Encounter Builder.md"
+      "Tools/Encounter Builder.md",
+      "Tools/Excalidraw"
     ],
     "Worldbuilding": [],
-    "Templates": []
+    "Tools/Excalidraw": [
+      "Tools/Excalidraw/Drawing 2025-10-27 04.53.22.excalidraw.md"
+    ]
   },
   "draggingEnabled": true,
   "selectedSortOrder": "manual-sorting",
   "debugMode": false,
-  "newItemsPosition": "top"
+  "newItemsPosition": "bottom"
 }

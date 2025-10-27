@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d5e009999ee6c7f0",
+        "id": "fddc286db17210dc",
         "type": "tabs",
         "children": [
           {
-            "id": "0e3248ce13ab3468",
+            "id": "d3db2998ae10d68b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,18 +152,6 @@
             }
           },
           {
-            "id": "db51a0d2b20adaf2",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {
-                "file": "Steven Universe Campaign.md"
-              },
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
-            }
-          },
-          {
             "id": "a7ca225426f2f29b",
             "type": "leaf",
             "state": {
@@ -184,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -202,11 +190,19 @@
       "obsidian-git:Open Git source control": false,
       "markdown-importer:Open format converter": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian42-brat:BRAT": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "0e3248ce13ab3468",
+  "active": "d3db2998ae10d68b",
   "lastOpenFiles": [
+    "Daggerheart/abilities/Banish.md",
+    "Tools/Excalidraw/Drawing 2025-10-27 04.53.22.excalidraw.md",
+    "Tools/Excalidraw",
+    "Steven Universe Campaign.md",
     "Daggerheart/contents/Turn Order and Action Economy.md",
     "Templates",
     "Assets",
@@ -224,7 +220,6 @@
     "DM Screen",
     "Tools/Demiplane Characters.md",
     "Daggerheart/adversaries/Acid Burrower.md",
-    "Steven Universe Campaign.md",
     "Tools",
     "Daggerheart/domains/Midnight.md",
     "Daggerheart/weapons/Bloodstaff.md",
@@ -238,9 +233,7 @@
     "Daggerheart/subclasses/Warden of the Elements.md",
     "Daggerheart/subclasses/Troubadour.md",
     "Daggerheart/subclasses/School of Knowledge.md",
-    "Daggerheart/items/Bloodstone.md",
     "Daggerheart/subclasses",
-    "Daggerheart/items",
-    "Daggerheart/frames"
+    "Daggerheart/items"
   ]
 }
