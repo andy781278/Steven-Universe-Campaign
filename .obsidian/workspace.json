@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Screen/DM Info.md",
+                "file": "Worldbuilding/Locations/Homeworld.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DM Info"
+              "title": "Homeworld"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen/DM Info.md",
+                "file": "Worldbuilding/Locations/Homeworld.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DM Info"
+              "title": "Backlinks for Homeworld"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Screen/DM Info.md",
+                "file": "Worldbuilding/Locations/Homeworld.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DM Info"
+              "title": "Outline of Homeworld"
             }
           },
           {
@@ -161,8 +161,7 @@
               "title": "Dice Tray"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,6 +184,19 @@
   },
   "active": "8907b9e2fdd18fac",
   "lastOpenFiles": [
+    "Worldbuilding/Gems/Gem Caste/Middle/Onyx.md",
+    "Worldbuilding/Gems/Gem Caste/Middle/Zircon.md",
+    "Worldbuilding/Gems/Gem Caste/Middle/Sardonyx.md",
+    "Worldbuilding/Gems/Gem Caste/Middle/Middle.md",
+    "Worldbuilding/Gems/Gem Caste/Middle/Agates.md",
+    "Worldbuilding/Locations/Homeworld.md",
+    "Worldbuilding/Gems/Gem Caste/Beryl/Goshenite.md",
+    "Players/Morrigan.md",
+    "DM Screen/Example Difficulty.md",
+    "DM Screen/DM Info.md",
+    "DM Screen/Background Music.md",
+    "DM Screen/Battle Guide.md",
+    "Players/Jas Kween.md",
     "Daggerheart/items/Honing Relic.md",
     "Daggerheart/abilities/Vicious Entangle.md",
     "Daggerheart/weapons/Improved Broadsword.md",
@@ -195,24 +207,11 @@
     "Worldbuilding/Locations/FPC War Zone.md",
     "Daggerheart/weapons/Warhammer.md",
     "Daggerheart/adversaries/Monarch.md",
-    "DM Screen/DM Info.md",
     "Assets/Pictures/Pasted image 20251028061120.png",
     "Assets/Pictures/Pasted image 20251028054931.png",
     "Plot/Brainstorm.md",
     "Worldbuilding/Characters/Halodor.md",
     "Worldbuilding/Characters/Bis.md",
-    "Worldbuilding/Gems/Gem Caste/Beryl/Heliodor.md",
-    "Steven Universe Campaign.md",
-    "Worldbuilding/Characters/Mech Man.md",
-    "Worldbuilding/Characters/Pad.md",
-    "Worldbuilding/Characters/Shadow Agate.md",
-    "Worldbuilding/Factions/Morrigon.md",
-    "Worldbuilding/Factions/Chill Dudaz.md",
-    "Worldbuilding/Factions/The Free Planets Coalition.md",
-    "Plot/Noteworthy Misc/Malaise.md",
-    "Plot/Noteworthy Misc/Project M.md",
-    "Plot/Noteworthy Misc/The Green House.md",
-    "Plot/Noteworthy Misc/The Green Thumb.md",
     "Assets/Pictures/Pasted image 20251028055347.png",
     "Plot/Noteworthy Misc",
     "Excalidraw/Scripts/Downloaded/Darken background color.svg",
