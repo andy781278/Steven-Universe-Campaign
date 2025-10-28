@@ -1,3 +1,9 @@
+---
+aliases:
+  - fuse
+  - fuses
+  - fusions
+---
 #player/playerRules
 
 **Fusion**

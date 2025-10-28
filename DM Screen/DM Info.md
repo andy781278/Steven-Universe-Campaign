@@ -1,9 +1,18 @@
 #DM
-# **Fear: 6**
+# Fear: 6/12
 
 Ideas from players:
-- Diamonds Origins  
-- Gem Society behavior/events/culture that wasn't in show  
-- Tactics to fight the gems, and tactics gems use against organics  
-- Gems conniving to get diamonds approval  
-- Inter-diamond competition
+- [x] Diamonds Origins  
+- [ ] Gem Society behavior/events/culture that wasn't in show  
+- [ ] Tactics to fight the gems, and tactics gems use against organics  
+- [ ] Gems conniving to get diamonds approval  
+- [ ] Inter-diamond competition
+
+
+![[Downtime#DOWNTIME CONSEQUENCES]]
+
+```custom-frames
+frame: Daggerheart
+style: height: 500px;
+urlSuffix: #reminders 
+```

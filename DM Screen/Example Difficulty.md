@@ -1,16 +1,18 @@
 #DM
 
-|Agility|   |   |   |
-|---|---|---|---|
-|Roll|Sprint|Leap|Maneuver|
-|---|---|---|---|
-|**5**|Sprint within <br><br>Close <br><br>range across an open field with an enemy present.|Make a running jump of half your height (about 3 feet for a human).|Walk slowly across a narrow beam.|
-|**10**|Sprint within <br><br>Far <br><br>range across an open field with an enemy present.|Make a running jump of your height (about 6 feet for a human).|Walk quickly across a narrow beam.|
-|**15**|Sprint within Close range across rough terrain with an enemy present.|Make a running jump of double your height (about 12 feet for a human).|Run across a narrow beam.|
-|**20**|Sprint within Close range through an active battle of multiple enemies.|Make a running jump of three times your height (about 18 feet for a human).|Run across a narrow beam in heavy wind.|
-|**25**|Sprint within Far range through a pitched battle in rough terrain.|Make a running jump of five times your height (about 30 feet for a human).|Run across a very narrow beam in an active rainstorm.|
-|**30**|Sprint across the heads of your enemies in a pitched battle.|Make a running jump of ten times your height (about 60 feet for a human).|Run across an inch-wide, oil-slicked beam in an active rainstorm.|
+# Agility
 
+| Agility |                                                                                       |                                                                             |                                                                   |
+| ------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Roll    | Sprint                                                                                | Leap                                                                        | Maneuver                                                          |
+| **5**   | Sprint within <br><br>Close <br><br>range across an open field with an enemy present. | Make a running jump of half your height (about 3 feet for a human).         | Walk slowly across a narrow beam.                                 |
+| **10**  | Sprint within <br><br>Far <br><br>range across an open field with an enemy present.   | Make a running jump of your height (about 6 feet for a human).              | Walk quickly across a narrow beam.                                |
+| **15**  | Sprint within Close range across rough terrain with an enemy present.                 | Make a running jump of double your height (about 12 feet for a human).      | Run across a narrow beam.                                         |
+| **20**  | Sprint within Close range through an active battle of multiple enemies.               | Make a running jump of three times your height (about 18 feet for a human). | Run across a narrow beam in heavy wind.                           |
+| **25**  | Sprint within Far range through a pitched battle in rough terrain.                    | Make a running jump of five times your height (about 30 feet for a human).  | Run across a very narrow beam in an active rainstorm.             |
+| **30**  | Sprint across the heads of your enemies in a pitched battle.                          | Make a running jump of ten times your height (about 60 feet for a human).   | Run across an inch-wide, oil-slicked beam in an active rainstorm. |
+
+# Strength
 
 |Strength|   |   |   |
 |---|---|---|---|
@@ -23,6 +25,7 @@
 |**25**|Lift a horse, an ox, or a large monster.|Break through a dragon’s teeth.|Subdue a large beast.|
 |**30**|Lift a falling portcullis gate.|Break a god’s grip.|Subdue a legendary beast.|
 
+# Finesse
 
 |Finesse|   |   |   |
 |---|---|---|---|
@@ -35,6 +38,7 @@
 |**25**|Ride a wild horse through dangerous terrain.|Evade notice with minimal cover in ample light.|Open a door secured by a sequence of elaborate locks.|
 |**30**|Ride an enraged beast through dangerous terrain.|Evade notice with no cover in full daylight.|Disable an incredibly sensitive and deadly trap.|
 
+# Instinct
 
 |Instinct|   |   |   |
 |---|---|---|---|
@@ -47,6 +51,7 @@
 |**25**|Hear a prowling animal fifty paces away.|Identify a spymaster’s plot or read a politican’s true intentions.|Find your way with no path through dangerous conditions.|
 |**30**|Hear a diving bird a hundred paces away.|Sense a shred of doubt within a god’s pronouncement.|Find your way through a trickery god’s maze.|
 
+# Presence
 
 |Presence|   |   |   |
 |---|---|---|---|
@@ -58,6 +63,7 @@
 |**20**|Win the trust of a sympathetic foe or talk your way into an enemy’s party.|Earn lodging in a high-end tavern or impress a full theater.|Trick a trained courtier.|
 |**25**|Turn an enemy against their ruler or talk your way into a fae court.|Earn your keep in a royal court or impress a full colosseum.|Trick a spymaster.|
 |**30**|Talk a hostile god into granting you a boon.|Save yourself from execution after offending the queen.|Trick a god.|
+# Knowledge
 
 |Knowledge|   |   |   |
 |---|---|---|---|

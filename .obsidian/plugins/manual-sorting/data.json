@@ -950,7 +950,13 @@
     "Excalidraw": [
       "Excalidraw/Scripts"
     ],
-    "Excalidraw/Scripts": [],
+    "Excalidraw/Scripts": [
+      "Excalidraw/Scripts/Downloaded"
+    ],
+    "Excalidraw/Scripts/Downloaded": [
+      "Excalidraw/Scripts/Downloaded/Darken background color.md",
+      "Excalidraw/Scripts/Downloaded/Darken background color.svg"
+    ],
     "Players": [
       "Players/Morrigan.md",
       "Players/Jas Kween.md",
@@ -968,14 +974,16 @@
     ],
     "Plot": [
       "Plot/Brainstorm.md",
-      "Plot/Excalidraw"
+      "Plot/Act 1.excalidraw.md"
     ],
-    "Plot/Excalidraw": [
-      "Plot/Excalidraw/Act 1.excalidraw.md"
+    "Session Notes": [
+      "Session Notes/Session 1.md",
+      "Session Notes/Session 2.md",
+      "Session Notes/Session 3.md"
     ],
-    "Session Notes": [],
     "Templates": [
-      "Templates/Leaflet Template.md"
+      "Templates/Leaflet Template.md",
+      "Templates/Website Template.md"
     ],
     "Tools": [
       "Tools/Demiplane Characters.md",
@@ -985,6 +993,7 @@
     "Tools/Excalidraw": [],
     "Worldbuilding": [
       "Worldbuilding/Map.md",
+      "Worldbuilding/Timeline.md",
       "Worldbuilding/Gems",
       "Worldbuilding/Aliens",
       "Worldbuilding/Factions",

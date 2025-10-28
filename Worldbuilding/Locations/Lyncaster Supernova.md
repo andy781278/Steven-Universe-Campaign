@@ -1,6 +1,8 @@
 #Locations
 ![[Pasted image 20251027104902.png]]
 Recently Supernova-ed star Lyncaster created a nebula of destructive energy. Temperature within the nebula reaches up to 8 million degrees Kelvin, which melts any ships or structures the gems can build within minutes. Even still, observations of Snaple ships and settlements have been seen inside the supernova, exactly what they’re doing there is unknown, but it can’t be good.  
+
 **Supernova Heat** - Any equipment/ship within the supernova that’s not built by the Snaples will be subject to extreme heat that will destroy said equipment/ship within 1d8 minutes. Without protective equipment, any creature subject to the heat will instantly vaporize.  
+
 **Traverse the Nebula** - Snaple technology is strong enough to resist extreme heat and can navigate the region with ease. These technologies can be found within Snaple research facilities and can be used with a DC 23 Knowledge Check. The tech is an octahedron shaped crystal that fits on your hand, on activation the crystal glows red and asks the user with the user’s language within their mind on where to apply the protection, it can be used on a ship, or up to a dozen people.  
 **Snaples** - Random Snaple research facilities can be found. They’re usually built on asteroids, isolated, and only house a few dozen Snaples. These research facilities are the only way to consistently stay alive within the nebula.

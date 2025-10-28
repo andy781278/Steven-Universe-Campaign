@@ -27,6 +27,10 @@
 [Pink Diamond](https://www.youtube.com/watch?v=19aOasXnGII)  
 [White Diamond](https://www.youtube.com/watch?v=3P2Wxxb06O4)
 
+[Icarus](https://www.youtube.com/watch?v=YF1o_45IWp4&list=RDYF1o_45IWp4&)
+[Chronos](https://www.youtube.com/watch?v=HeetdsvVogE&list=RDHeetdsvVogE&)
+[Cyclops](https://www.youtube.com/watch?v=mqng4Szbb2c&)
+
 [Session End](https://www.youtube.com/watch?v=KqWTClYTYkI&list=PLgwySV6ozlCrVLah3VwdPYCfguqYSeLub&index=20)
 
 ## **Act 1**

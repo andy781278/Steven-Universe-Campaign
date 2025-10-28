@@ -1,0 +1,8 @@
+- ~1 million years ago: The Globgors dominate the JXJ solar system and become a space-faring civilization. They went to nearby solar systems and conquered them, they built technologies, then nuked each other back to the stone age. One of the planets, Xelthor, had a large population of Jabadahuts that managed to regain their freedom.  
+- ~30,000 years ago: The DA was born along with the gem society.  
+- ~8,000 years ago: DA discovered Warp Drives, and started colonization of other planets.  
+- ~300 years ago: Jabada Grey and Tiesto Gambino established the Free Planets Coalition, and started fighting back against the DA.  
+- ~100 years ago: Johnny Piratehook founded the Piratars, a pirate company within FPC.  
+- ~40 years ago: Rose Quartz and Pearl formed the Crystal Gems and allied themselves with FPC.
+- ~27 years ago: Snaples made first contact with Gems and quickly built several megastructures around a few stars.
+- ~10 years ago: DA invaded Snaponia and took over with heavy casualties. The Snaples backed off and stayed put, then a stalemate where DA is unsure of the next steps.

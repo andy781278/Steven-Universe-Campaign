@@ -1,9 +1,6 @@
 # **Character Backstories**
 
 ## **Morrigan**
-
-Morrigan is an Morganite gem, a member of Pink Diamond’s court, and one of the elites of gem society. Born on homeworld 27,594 years ago, Morganite is a specialized gem whose job is to create art and sculptures for pink diamonds. She was the first one of its kind, introduced as one of the first waves of entertainers type gems similar to Spinel and some pearls. Morrigan built beautiful art, constructed from the local life forms of planets they conquered. She created palanquins, sculptures, and murals out of flora and fauna, and in doing so grew to understand life no other in the empire. In terms of assets, Morrigan has a massive greenhouse mansion called the greenhouse filled with all kinds of plants, creatures, or fauna she’s gathered throughout her journey. This mansion is her main base of operation, which is guarded by rose quartzes, Jaspers, and other pink quartzes. Besides her greenhouse, Morrigan also owns various zoos of creatures throughout gem controlled territories, and also helped build the human zoo for pink diamond. Morrigan has no official fleets or armatas, but she does have personal bodyguards made up of her most interested faunas she’s gathered throughout the galaxy; she's eccentric for that. She also owns a pink handship called the Green Thumb for all her general traveling (the thumb is green). She has around 30 million Rads, earning \~100k per commissioned artwork. She earns \~200k per year, which is considered a little below average for Beryls.
-
 ### **Project M Arc**
 
 **Backstory**  
@@ -18,7 +15,7 @@ For 1000 years, they gathered forces, created a rebellion in secret, all the whi
 ### **Act 1**
 
 - Morrigan is tasked to complete a mural at the newly established colony Jackson for Yellow.  
-- Colony Overseer Heliodor and Barracks Manager Shadow Agate greets Morrigan and gives them an orientation, which includes an underground kindergarten built in a cave, the crew barrack (Introduce Danny Jacob), and resource mines.  
+- Colony Overseer Heliodor and Barracks Manager Shadow Agate greets Morrigan and gives them an orientation, which includes an underground kindergarten built in a cave, the crew barrack (Introduce Danny Jacob), and resource mines.
 - Suddenly, communications are cut from the outside, and Shadow Agate runs off to sound the alarm while Heliodor asks Morrigan's group to do the same while they deal with the intruders. Then Heliodor runs to the barracks and leads the local Citrines and Jaspers to battle.  
 - No matter the choice, Morrigan’s group will be caught in a battle started by a small group of rebel gems. They ride in with hovercrafts and start cutting. The battle is unexpected, it takes place in small tight corridors and hallways, with 1 room that they can run to. The lights can be cut out half way through the fight, making Morrigan’s team blind with disadvantage, while the rebels put on night vision goggles. The rebels fought as if they knew the colony layout and where to go, and the power cut was definitely intended. Their goal is to place down bombs and blow up the colony to the ground. They complete their mission after players are really slow at dispatching them. They vandalize by destroying murals and spray paint their symbols, **Morrigon was here.**  
 - After winning the battle against the rebels, they fled, leaving messages in the battlefield, saying “Morrigon Was Here”. If the rebels win, they leave, and blow up the station, and Morrigan’s crew will be trapped on the planet. They will be able to make it out of the buried sands after hours of digging with rolls, and they will then need to survive in the harsh wind.  

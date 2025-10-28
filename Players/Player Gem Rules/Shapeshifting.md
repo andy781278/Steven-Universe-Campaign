@@ -1,3 +1,11 @@
+---
+aliases:
+  - transform
+  - shapeshift
+  - transforming
+  - shapeshifts
+  - transforms
+---
 #player/playerRules
 
 **Shapeshifting**

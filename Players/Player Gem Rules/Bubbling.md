@@ -1,3 +1,9 @@
+---
+aliases:
+  - bubble
+  - bubbles
+  - bubblings
+---
 #player/playerRules
 
 **Bubbling**
