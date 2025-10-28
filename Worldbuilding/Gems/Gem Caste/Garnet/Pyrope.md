@@ -1,0 +1,8 @@
+#Gems/Type #Gems/Garnet #Gems/Pink
+Bourgeoisie/Wits Focused
+
+Pyrope has a build that is similar to Hessonite and Demantoid. She features pink skin and a crimson hairstyle that resembles an afro. Her eyebrows are thin and pastel pink, and she has a dark inverted-triangle marking on the top half of her face, creating the appearance of a shadow or veil. Pyrope wears a crimson dress adorned with pastel pink shoulder pads and poofy sleeves. The lower half of her dress opens to reveal pastel pink boots accented with roses and dark fuchsia pantaloons. Her rectangular-faceted gem is located in her midsection.
+
+Pyrope displays a cheerful yet snobbish personality and holds a very high opinion of herself, which is understandable given her former status in Homeworld's Empire. According to Hessonite, Pyrope can easily be distracted and might abandon a task if something else captures her attention. She is also often oblivious to information that is clear to others, such as Hessonite's alliance with the Crystal Gems, which she did not realize until her disguise was removed. Pyrope firmly believes that all Gems need a ruler and that they would be lost without one. However, despite her cheerful demeanor, she is capable of losing her temper, a fact that was evident when the Crystal Gems confronted and ultimately defeated her and Demantoid, leading to their mutual poofing.
+
+![[Pasted image 20251027134930.png]]

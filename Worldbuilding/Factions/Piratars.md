@@ -4,4 +4,10 @@ aliases:
 ---
 #Aliens/Factions 
 ![[Pasted image 20251027103503.png]]
-A public company started by Johnny Piratehook (Talubian) with hooks on both his hands. Founded in **[[Macan]]**, a planet within the Coalition, Johnny escaped from [[Oxoron]], his home planet after a gem invasion, and came to FPC looking for revenge. His knack for piracy and his grand speeches got him a crew that eventually grew to a planet size company for the sole purpose of raiding DA territories. [[Macan]] is a planet of lawlessness and chaos, full of drunken old sailors (space sailors) wanting to pick a fight with the first person they see. Piratars have stolen countless ships, raw resources, and slaves from the DA, and is an absolute menace the DA fully intends on stopping. The only issue is the secrecy of [[Macan]]’s location, which seems to change from time to time, and can never be completely located. Many times have the gems managed to capture and torture Piratars for the location of [[Macan]], but every time they turn up shorthanded. The answer is that [[Macan]] is a planet with a built-in warp drive that can drive itself around with a camouflage exosphere. They are never in the same location for more than a few weeks, and their sensors can detect gem ships coming from light years away. The only way for the DA to stop the Piratars would be to secretly infiltrate [[Macan]] and shut down the warp drive from the inside, which is insanely difficult, given that it has not been accomplished yet, and the Piratars have been existing for a century or so.
+A public company started by Johnny Piratehook (Talubian). Founded in **[[Macan]]**, a planet within the Coalition. Considered one of the many subsidiaries of the FPC.
+
+
+![[Macan#^baa114]]
+![[Macan#^fcecd2]]
+![[Macan#^2c6332]]
+![[Macan#^15c585]]

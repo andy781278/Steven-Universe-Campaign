@@ -1,0 +1,4 @@
+#Gems/Type #Gems/Garnet #Gems/Yellow
+Combat Focused
+Hessonite was tall and lanky, standing about a head higher than [Garnet](https://steven-universe.fandom.com/wiki/Garnet "Garnet"). She had a light orange complexion and pale yellow hair in a large curly afro drawn back to a widow's peak. She had a dark maroon unibrow and a yellow-orange marking in the shape of the Prism over her left vermilion eye. She wore a sparkly high-collared cape over an orange-red jumpsuit with large pointed poofy hips, thigh-high white boots with jaffa-colored soles, and white elbow-length gloves.
+![[Pasted image 20251027134635.png]]

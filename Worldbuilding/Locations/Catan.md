@@ -4,6 +4,9 @@ Capital of [[the Free Planets Coalition]] and a cyberpunk dystopia. The [[The Fr
 
 **Rogue AI Hijacking** - While driving through Catan, there is a random chance that a rogue AI virus invades and takes over your ship. The AI spouts random gibberish at first, then slowly reveals that they’re just confused and don’t know what the meaning of life is. Meanwhile they subject passengers to random weird stuff like slam poetry and synth music. Your choices? Hack it, convince it that life is worth living, or jump out at 120 miles per hour. After a good while, the AI will simply run the ship into a governmental building and do a 911.  
 
-**Rap Battle** - PCs walk into a Chill Dudaz turf. Neon, beats, gang blocks path. Chances increase if ruckus is caused. Chill Dudaz drops the challenge: “Yo, yo, YO! What we got here? Bunch o’ glitched-out chrome-heads thinkin’ they can walk through our block without droppin’ a rhyme?” Then challenges PCs to a rap battle, or else they’ll rob them. Winning the rap battle earns respect and a chance to meet Sanchez or Mech Man in person.  
+**Rap Battle** - PCs walk into a Chill Dudaz turf. Neon, beats, gang blocks path. Chances increase if ruckus is caused. Chill Dudaz drops the challenge:
+“Yo, yo, YO! What we got here? Bunch o’ glitched-out chrome-heads thinkin’ they can walk through our block without droppin’ a rhyme?”
+"If you want to leave our path, you better beat our rap!"
+Then challenges PCs to a rap battle, or else they’ll rob them. Winning the rap battle earns respect and a chance to meet Sanchez or Mech Man in person.
 
 **Underground Fighting Ring** - Someone notices your fighting skills and offers you a position as a fighter in the underground fighting ring owned by Douglass Incorporated, known for selling pharmaceuticals, and cognitive enhancements.

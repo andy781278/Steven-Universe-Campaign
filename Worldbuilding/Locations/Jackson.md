@@ -1,5 +1,12 @@
-#Gems/Locations 
-![[Pasted image 20251027104822.png]]Newly colonized planet, no older than 40 years, filled with yellow vegetation, no civilization. The atmosphere is dense, pressure is high, and it’s filled with primarily Hydrogen Sulfide. Winds blow frequently, storms are everywhere, and visibility is super low, around 10 ft. A food chain of different kinds of carnivorous plants eating smaller carnivorous plants exists, many plants are covered with dangerous spikes, and are deeply secured to the ground to make sure they don’t get blown away. There are some plants that ride with the wind, kind of like super tumbleweeds, stabbing into anything they crash into, spreading their pollen. Colonization 5% complete, various buildings have been built all over the underground, and none on the surface, and facets have been organized. A Heliodor oversees the completion of this colony. Because of the extreme winds, signals can only be transmitted from the underground via specially built signal towers that are tall and thin; it goes out of the atmosphere and into space.  
-**Super Windy** - While on the surface, you are blind and disorientated, which means you have disadvantage on any physical-related rolls.
+#Gems/Locations #Gems/Yellow
+![[Pasted image 20251027104822.png]]Newly colonized planet, no older than 40 years, filled with yellow vegetation, no civilization.
+- The atmosphere is dense, pressure is high, and it’s filled with primarily Hydrogen Sulfide.
+- Winds blow frequently, storms are everywhere, and visibility is super low, around 10 ft.
+- A food chain of different kinds of carnivorous plants eating smaller carnivorous plants exists, many plants are covered with dangerous spikes, and are deeply secured to the ground to make sure they don’t get blown away.
+- There are some plants that ride with the wind, kind of like super tumbleweeds, stabbing into anything they crash into, spreading their pollen.
 
-###
+Colonization 5% complete, various buildings have been built all over the underground, and none on the surface, and facets have been organized.
+A Heliodor oversees the completion of this colony.
+Because of the extreme winds, signals can only be transmitted from the underground via specially built signal towers that are tall and thin; it goes out of the atmosphere and into space.  
+
+**Super Windy** - While on the surface, you are blind and disorientated, which means you have disadvantage on any physical-related rolls.

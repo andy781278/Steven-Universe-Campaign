@@ -4,41 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "73e1cbcec8cb28b3",
+        "id": "4bf0324faf83986f",
         "type": "tabs",
         "children": [
           {
-            "id": "d74f81eaf3285c86",
+            "id": "ff2ad24a2a9836d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Gems/Gem Caste/Beryl/Aquamarine.md",
+                "file": "Worldbuilding/Characters/Pad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aquamarine"
+              "title": "Pad"
             }
           }
         ]
       },
       {
-        "id": "5b4bfc8cba4e5255",
+        "id": "572dcc8cd8ab5626",
         "type": "tabs",
         "children": [
           {
-            "id": "a52a0741cae628af",
+            "id": "a0e79df78c6879dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Gems/Gem Caste/Beryl/Beryl.md",
+                "file": "Worldbuilding/Factions/Morrigon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beryl"
+              "title": "Morrigon"
             }
           }
         ]
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Gems/White",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,17 +114,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Gems/Gem Court Culture.md",
+                "file": "Worldbuilding/Characters/Pad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gem Court Culture"
+              "title": "Backlinks for Pad"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worldbuilding/Gems/Gem Court Culture.md",
+                "file": "Worldbuilding/Characters/Pad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gem Court Culture"
+              "title": "Outgoing links from Pad"
             }
           },
           {
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Gems/Gem Caste/Beryl/Aquamarine.md",
+                "file": "Worldbuilding/Characters/Pad.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Aquamarine"
+              "title": "Outline of Pad"
             }
           },
           {
@@ -203,53 +203,52 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d74f81eaf3285c86",
+  "active": "ff2ad24a2a9836d3",
   "lastOpenFiles": [
-    "Worldbuilding/Gems/Gem Caste/Beryl/Beryl.md",
-    "Worldbuilding/Gems/Gem Caste/Beryl/Aquamarine.md",
-    "Worldbuilding/Gems/Gem Caste/Diamond/Pink Diamond.md",
-    "Worldbuilding/Gems/Gem Caste/Diamond/Blue Diamond.md",
-    "Worldbuilding/Gems/Gem Caste/Diamond/Yellow Diamond.md",
-    "Worldbuilding/Gems/Gem Caste/Diamond/White Diamond.md",
-    "Worldbuilding/Gems/Gem Caste/Diamond",
+    "Worldbuilding/Characters/Bis.md",
+    "Worldbuilding/Characters/Pad.md",
+    "Pasted image 20251027234319.png",
+    "Worldbuilding/Factions/Morrigon.md",
+    "Worldbuilding/Factions/Chill Dudaz.md",
+    "Worldbuilding/Factions/Other Rebellious Factions.md",
+    "Worldbuilding/Factions/The Crystal Gems.md",
+    "Worldbuilding/Factions/Piratars.md",
+    "Worldbuilding/Factions/The Free Planets Coalition.md",
+    "Worldbuilding/Factions/The Diamond Authority.md",
+    "Worldbuilding/Locations/JXJ.md",
+    "Worldbuilding/Map.md",
+    "Worldbuilding/Gems/Gem Evolution.md",
+    "Assets/Pictures/Map.png",
     "Worldbuilding/Gems/Gem Social Hierarchy.md",
-    "Worldbuilding/Gems/Gem Caste/Off-Color/Off-Color.md",
-    "Worldbuilding/Gems/Gem Caste/Slave/Slave.md",
-    "Worldbuilding/Gems/Gem Caste/Worker/Worker.md",
-    "Worldbuilding/Gems/Gem Caste/Quarts/Quarts.md",
-    "Worldbuilding/Gems/Gem Caste/Manager/Manager.md",
-    "Worldbuilding/Gems/Gem Caste/Specialist/Specialist.md",
-    "Worldbuilding/Gems/Gem Caste/Elite/Elite.md",
-    "Worldbuilding/Gems/Gem Caste/Garnet/Garnet.md",
+    "Worldbuilding/Characters/Hollyblue Agate.md",
+    "Worldbuilding/Characters/Sanchez Hernandez.md",
+    "Worldbuilding/Characters/Mech Man.md",
+    "Worldbuilding/Characters/Simion Blyat.md",
+    "Worldbuilding/Characters/Rose Quartz.md",
+    "Worldbuilding/Characters/Johnny Piratehook.md",
+    "Worldbuilding/Characters/Tiesto Gambino.md",
+    "Worldbuilding/Characters/Jabada Grey.md",
+    "Worldbuilding/Characters/Shadow Agate.md",
     "Steven Universe Campaign.md",
-    "Worldbuilding/Gems/Gem Court Culture.md",
+    "Worldbuilding/Locations/Jackson.md",
+    "Worldbuilding/Locations/Catan.md",
+    "Pasted image 20251027232410.png",
+    "Pasted image 20251027232101.png",
+    "Pasted image 20251027231243.png",
+    "Pasted image 20251027230748.png",
+    "Pasted image 20251027160135.png",
+    "Assets/Pictures/Pasted image 20251027124656.png",
+    "Assets/Pictures/Pasted image 20251027133856.png",
+    "Assets/Pictures/Pasted image 20251027154403.png",
+    "Assets/Pictures/Unconfirmed 539488.crdownload",
+    "Worldbuilding/Gems/Gem Caste/Diamond",
     "Worldbuilding/Gems/Gem Caste/Off-Color",
     "Worldbuilding/Gems/Gem Caste/Slave",
     "Worldbuilding/Gems/Gem Caste/Worker",
-    "Worldbuilding/Gems/Gem Caste/Quarts",
-    "Worldbuilding/Gems/Gem Caste/Manager",
+    "Worldbuilding/Gems/Gem Caste/Quartz",
+    "Worldbuilding/Gems/Gem Caste/Middle",
     "Worldbuilding/Gems/Gem Caste/Specialist",
     "Worldbuilding/Gems/Gem Caste/Elite",
-    "Worldbuilding/Gems/Gem Caste/Garnet",
-    "Worldbuilding/Gems/Gem Caste/Diamond",
-    "Worldbuilding/Gems/Gem Caste/Untitled.md",
-    "Worldbuilding/Factions/Morrigon.md",
-    "Worldbuilding/Factions/Piratars.md",
-    "Worldbuilding/Aliens/Globgors.md",
-    "Worldbuilding/Factions/Chill Dudaz.md",
-    "Worldbuilding/Factions/Other Rebellious Factions.md",
-    "Worldbuilding/Characters/Mech Man.md",
-    "Worldbuilding/Characters/Sanchez Hernandez.md",
-    "Worldbuilding/Factions/The Crystal Gems.md",
-    "Assets/Pictures/Pasted image 20251027112726.png",
-    "Assets/Pictures/Pasted image 20251027112840.png",
-    "Assets/Pictures/Pasted image 20251027112829.png",
-    "Assets/Pictures/Pasted image 20251027110355.png",
-    "Assets/Pictures/Pasted image 20251027104816.png",
-    "Assets/Pictures/Pasted image 20251027105349.png",
-    "Assets/Pictures/Pasted image 20251027105235.png",
-    "Assets/Pictures/Pasted image 20251027105139.png",
-    "Assets/Pictures/Pasted image 20251027105129.png",
-    "Assets/Pictures/Pasted image 20251027105112.png"
+    "Worldbuilding/Gems/Gem Caste/Garnet"
   ]
 }

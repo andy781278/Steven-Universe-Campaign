@@ -10,7 +10,13 @@
       "Session Notes",
       "Assets",
       "Steven Universe Campaign.md",
-      "Templates"
+      "Templates",
+      "Pasted image 20251027160135.png",
+      "Pasted image 20251027230748.png",
+      "Pasted image 20251027231243.png",
+      "Pasted image 20251027232101.png",
+      "Pasted image 20251027232410.png",
+      "Pasted image 20251027234319.png"
     ],
     "Assets": [
       "Assets/Pictures"
@@ -20,7 +26,6 @@
       "Assets/Pictures/Pasted image 20251027112726.png",
       "Assets/Pictures/Pasted image 20251027103052.png",
       "Assets/Pictures/Pasted image 20251027103008.png",
-      "Assets/Pictures/Pasted image 20251027102543.png",
       "Assets/Pictures/Pasted image 20251027103210.png",
       "Assets/Pictures/Pasted image 20251027103213.png",
       "Assets/Pictures/Pasted image 20251027103215.png",
@@ -44,7 +49,62 @@
       "Assets/Pictures/Pasted image 20251027105349.png",
       "Assets/Pictures/Pasted image 20251027110355.png",
       "Assets/Pictures/Pasted image 20251027112829.png",
-      "Assets/Pictures/Pasted image 20251027112840.png"
+      "Assets/Pictures/Pasted image 20251027123929.png",
+      "Assets/Pictures/Pasted image 20251027112840.png",
+      "Assets/Pictures/Pasted image 20251027123710.png",
+      "Assets/Pictures/Pasted image 20251027123811.png",
+      "Assets/Pictures/Pasted image 20251027123938.png",
+      "Assets/Pictures/Pasted image 20251027124104.png",
+      "Assets/Pictures/Pasted image 20251027124113.png",
+      "Assets/Pictures/CasteImage.jpg",
+      "Assets/Pictures/Pasted image 20251027124656.png",
+      "Assets/Pictures/Pasted image 20251027133856.png",
+      "Assets/Pictures/Pasted image 20251027134635.png",
+      "Assets/Pictures/Pasted image 20251027134757.png",
+      "Assets/Pictures/Pasted image 20251027134807.png",
+      "Assets/Pictures/Pasted image 20251027134930.png",
+      "Assets/Pictures/Pasted image 20251027135923.png",
+      "Assets/Pictures/Pasted image 20251027140214.png",
+      "Assets/Pictures/Pasted image 20251027140401.png",
+      "Assets/Pictures/Pasted image 20251027140531.png",
+      "Assets/Pictures/Pasted image 20251027141745.png",
+      "Assets/Pictures/Pasted image 20251027141756.png",
+      "Assets/Pictures/Pasted image 20251027141828.png",
+      "Assets/Pictures/Pasted image 20251027142035.png",
+      "Assets/Pictures/Pasted image 20251027142520.png",
+      "Assets/Pictures/Pasted image 20251027142747.png",
+      "Assets/Pictures/Pasted image 20251027142859.png",
+      "Assets/Pictures/Pasted image 20251027142907.png",
+      "Assets/Pictures/Pasted image 20251027142916.png",
+      "Assets/Pictures/Pasted image 20251027142928.png",
+      "Assets/Pictures/Pasted image 20251027150728.png",
+      "Assets/Pictures/Pasted image 20251027150823.png",
+      "Assets/Pictures/Pasted image 20251027151024.png",
+      "Assets/Pictures/Pasted image 20251027151718.png",
+      "Assets/Pictures/Pasted image 20251027151756.png",
+      "Assets/Pictures/Pasted image 20251027151847.png",
+      "Assets/Pictures/Pasted image 20251027151953.png",
+      "Assets/Pictures/Pasted image 20251027152011.png",
+      "Assets/Pictures/Pasted image 20251027152151.png",
+      "Assets/Pictures/Pasted image 20251027152816.png",
+      "Assets/Pictures/Pasted image 20251027152852.png",
+      "Assets/Pictures/Pasted image 20251027152947.png",
+      "Assets/Pictures/Pasted image 20251027153109.png",
+      "Assets/Pictures/Pasted image 20251027153242.png",
+      "Assets/Pictures/Pasted image 20251027153245.png",
+      "Assets/Pictures/Pasted image 20251027153425.png",
+      "Assets/Pictures/Pasted image 20251027153427.png",
+      "Assets/Pictures/Pasted image 20251027153617.png",
+      "Assets/Pictures/Pasted image 20251027154057.png",
+      "Assets/Pictures/Pasted image 20251027154108.png",
+      "Assets/Pictures/Pasted image 20251027154129.png",
+      "Assets/Pictures/Pasted image 20251027154141.png",
+      "Assets/Pictures/Pasted image 20251027154151.png",
+      "Assets/Pictures/Pasted image 20251027154200.png",
+      "Assets/Pictures/Pasted image 20251027154249.png",
+      "Assets/Pictures/Pasted image 20251027154335.png",
+      "Assets/Pictures/Pasted image 20251027154403.png",
+      "Assets/Pictures/Map.png"
     ],
     "Daggerheart": [
       "Daggerheart/abilities",
@@ -902,7 +962,9 @@
       "Plot/Brainstorm.md"
     ],
     "Session Notes": [],
-    "Templates": [],
+    "Templates": [
+      "Templates/Leaflet Template.md"
+    ],
     "Tools": [
       "Tools/Demiplane Characters.md",
       "Tools/Encounter Builder.md",
@@ -910,6 +972,7 @@
     ],
     "Tools/Excalidraw": [],
     "Worldbuilding": [
+      "Worldbuilding/Map.md",
       "Worldbuilding/Gems",
       "Worldbuilding/Aliens",
       "Worldbuilding/Factions",
@@ -932,7 +995,7 @@
       "Worldbuilding/Characters/Jabada Grey.md",
       "Worldbuilding/Characters/Tiesto Gambino.md",
       "Worldbuilding/Characters/Johnny Piratehook.md",
-      "Worldbuilding/Characters/Rose Quarts.md",
+      "Worldbuilding/Characters/Rose Quartz.md",
       "Worldbuilding/Characters/Simion Blyat.md",
       "Worldbuilding/Characters/Shadow Agate.md",
       "Worldbuilding/Characters/Hollyblue Agate.md",
@@ -947,8 +1010,8 @@
       "Worldbuilding/Factions/Piratars.md",
       "Worldbuilding/Factions/The Crystal Gems.md",
       "Worldbuilding/Factions/Other Rebellious Factions.md",
-      "Worldbuilding/Factions/Chill Dudaz.md",
-      "Worldbuilding/Factions/Morrigon.md"
+      "Worldbuilding/Factions/Morrigon.md",
+      "Worldbuilding/Factions/Chill Dudaz.md"
     ],
     "Worldbuilding/Gems": [
       "Worldbuilding/Gems/Gem Origin.md",
@@ -970,15 +1033,19 @@
       "Worldbuilding/Gems/Gem Caste/Garnet",
       "Worldbuilding/Gems/Gem Caste/Elite",
       "Worldbuilding/Gems/Gem Caste/Specialist",
-      "Worldbuilding/Gems/Gem Caste/Manager",
-      "Worldbuilding/Gems/Gem Caste/Quarts",
+      "Worldbuilding/Gems/Gem Caste/Middle",
+      "Worldbuilding/Gems/Gem Caste/Quartz",
       "Worldbuilding/Gems/Gem Caste/Worker",
       "Worldbuilding/Gems/Gem Caste/Slave",
       "Worldbuilding/Gems/Gem Caste/Off-Color"
     ],
     "Worldbuilding/Gems/Gem Caste/Beryl": [
       "Worldbuilding/Gems/Gem Caste/Beryl/Beryl.md",
-      "Worldbuilding/Gems/Gem Caste/Beryl/Aquamarine.md"
+      "Worldbuilding/Gems/Gem Caste/Beryl/Aquamarine.md",
+      "Worldbuilding/Gems/Gem Caste/Beryl/Emerald.md",
+      "Worldbuilding/Gems/Gem Caste/Beryl/Morganite.md",
+      "Worldbuilding/Gems/Gem Caste/Beryl/Goshenite.md",
+      "Worldbuilding/Gems/Gem Caste/Beryl/Heliodor.md"
     ],
     "Worldbuilding/Gems/Gem Caste/Diamond": [
       "Worldbuilding/Gems/Gem Caste/Diamond/White Diamond.md",
@@ -987,28 +1054,58 @@
       "Worldbuilding/Gems/Gem Caste/Diamond/Pink Diamond.md"
     ],
     "Worldbuilding/Gems/Gem Caste/Elite": [
-      "Worldbuilding/Gems/Gem Caste/Elite/Elite.md"
+      "Worldbuilding/Gems/Gem Caste/Elite/Elite.md",
+      "Worldbuilding/Gems/Gem Caste/Elite/Sapphire.md",
+      "Worldbuilding/Gems/Gem Caste/Elite/Padarascha.md",
+      "Worldbuilding/Gems/Gem Caste/Elite/Heaven Earth Beetles.md",
+      "Worldbuilding/Gems/Gem Caste/Elite/Jade.md"
     ],
     "Worldbuilding/Gems/Gem Caste/Garnet": [
-      "Worldbuilding/Gems/Gem Caste/Garnet/Garnet.md"
+      "Worldbuilding/Gems/Gem Caste/Garnet/Garnet.md",
+      "Worldbuilding/Gems/Gem Caste/Garnet/Hessonite.md",
+      "Worldbuilding/Gems/Gem Caste/Garnet/Demantoid.md",
+      "Worldbuilding/Gems/Gem Caste/Garnet/Pyrope.md"
     ],
-    "Worldbuilding/Gems/Gem Caste/Manager": [
-      "Worldbuilding/Gems/Gem Caste/Manager/Manager.md"
+    "Worldbuilding/Gems/Gem Caste/Middle": [
+      "Worldbuilding/Gems/Gem Caste/Middle/Middle.md",
+      "Worldbuilding/Gems/Gem Caste/Middle/Agates.md",
+      "Worldbuilding/Gems/Gem Caste/Middle/Sardonyx.md",
+      "Worldbuilding/Gems/Gem Caste/Middle/Zircon.md",
+      "Worldbuilding/Gems/Gem Caste/Middle/Onyx.md"
     ],
     "Worldbuilding/Gems/Gem Caste/Off-Color": [
       "Worldbuilding/Gems/Gem Caste/Off-Color/Off-Color.md"
     ],
-    "Worldbuilding/Gems/Gem Caste/Quarts": [
-      "Worldbuilding/Gems/Gem Caste/Quarts/Quarts.md"
+    "Worldbuilding/Gems/Gem Caste/Quartz": [
+      "Worldbuilding/Gems/Gem Caste/Quartz/Quartz.md",
+      "Worldbuilding/Gems/Gem Caste/Quartz/Amethyst.md",
+      "Worldbuilding/Gems/Gem Caste/Quartz/Jasper.md",
+      "Worldbuilding/Gems/Gem Caste/Quartz/Carnelian.md",
+      "Worldbuilding/Gems/Gem Caste/Quartz/Rose Quartz.md",
+      "Worldbuilding/Gems/Gem Caste/Quartz/Citrine.md"
     ],
     "Worldbuilding/Gems/Gem Caste/Slave": [
-      "Worldbuilding/Gems/Gem Caste/Slave/Slave.md"
+      "Worldbuilding/Gems/Gem Caste/Slave/Slave.md",
+      "Worldbuilding/Gems/Gem Caste/Slave/Pearl.md",
+      "Worldbuilding/Gems/Gem Caste/Slave/Pebbles.md",
+      "Worldbuilding/Gems/Gem Caste/Slave/Spinel.md",
+      "Worldbuilding/Gems/Gem Caste/Slave/Decor.md"
     ],
     "Worldbuilding/Gems/Gem Caste/Specialist": [
-      "Worldbuilding/Gems/Gem Caste/Specialist/Specialist.md"
+      "Worldbuilding/Gems/Gem Caste/Specialist/Specialist.md",
+      "Worldbuilding/Gems/Gem Caste/Specialist/Lapis Lazulis.md",
+      "Worldbuilding/Gems/Gem Caste/Specialist/Desert Glass.md",
+      "Worldbuilding/Gems/Gem Caste/Specialist/Albite.md",
+      "Worldbuilding/Gems/Gem Caste/Specialist/Topaz.md"
     ],
     "Worldbuilding/Gems/Gem Caste/Worker": [
-      "Worldbuilding/Gems/Gem Caste/Worker/Worker.md"
+      "Worldbuilding/Gems/Gem Caste/Worker/Worker.md",
+      "Worldbuilding/Gems/Gem Caste/Worker/Peridot.md",
+      "Worldbuilding/Gems/Gem Caste/Worker/Bismuth.md",
+      "Worldbuilding/Gems/Gem Caste/Worker/Rutile.md",
+      "Worldbuilding/Gems/Gem Caste/Worker/Obsidian.md",
+      "Worldbuilding/Gems/Gem Caste/Worker/Larimar.md",
+      "Worldbuilding/Gems/Gem Caste/Worker/Ruby.md"
     ],
     "Worldbuilding/Locations": [
       "Worldbuilding/Locations/Homeworld.md",

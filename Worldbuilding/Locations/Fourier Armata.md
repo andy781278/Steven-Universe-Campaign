@@ -1,2 +1,2 @@
 #Gems/Locations 
-The 4 planets that make up the military headquarters and barracks of YD’s army, which is the most feared army in the [[The Free Planets Coalition|FPC]]. The four planets, Alpha, Beta, Gamma, and Delta, each house millions of quartz gem soldiers ready to fight.
+The 4 planets that make up the military headquarters and barracks of YD’s army, which is the most feared army by the [[The Free Planets Coalition|FPC]]. The four planets, Alpha, Beta, Gamma, and Delta, each house millions of quartz gem soldiers ready to fight.

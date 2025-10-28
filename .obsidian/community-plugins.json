@@ -12,5 +12,6 @@
   "obsidian-leaflet-plugin",
   "obsidian42-brat",
   "callout-menu",
-  "virtual-linker"
+  "virtual-linker",
+  "obsidian-meta-bind-plugin"
 ]
