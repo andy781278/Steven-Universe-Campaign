@@ -9,9 +9,9 @@
       "Tools",
       "Session Notes",
       "Assets",
-      "Steven Universe Campaign.md",
       "Templates",
-      "Assets/Pictures/Pasted image 20251028000427.png"
+      "Steven Universe Campaign.md",
+      "Excalidraw"
     ],
     "Assets": [
       "Assets/Pictures"
@@ -107,7 +107,8 @@
       "Assets/Pictures/Pasted image 20251027232410.png",
       "Assets/Pictures/Pasted image 20251027234319.png",
       "Assets/Pictures/Pasted image 20251027235400.png",
-      "Assets/Pictures/Pasted image 20251028000130.png"
+      "Assets/Pictures/Pasted image 20251028000130.png",
+      "Assets/Pictures/Pasted image 20251028000427.png"
     ],
     "Daggerheart": [
       "Daggerheart/abilities",
@@ -946,6 +947,10 @@
       "DM Screen/Battle Guide.md",
       "DM Screen/CATS.md"
     ],
+    "Excalidraw": [
+      "Excalidraw/Scripts"
+    ],
+    "Excalidraw/Scripts": [],
     "Players": [
       "Players/Morrigan.md",
       "Players/Jas Kween.md",
@@ -962,7 +967,11 @@
       "Players/Player Gem Rules/Photokinetic.md"
     ],
     "Plot": [
-      "Plot/Brainstorm.md"
+      "Plot/Brainstorm.md",
+      "Plot/Excalidraw"
+    ],
+    "Plot/Excalidraw": [
+      "Plot/Excalidraw/Act 1.excalidraw.md"
     ],
     "Session Notes": [],
     "Templates": [
