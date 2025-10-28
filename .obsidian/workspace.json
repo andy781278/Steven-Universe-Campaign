@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Characters/Pad.md",
+                "file": "DM Screen/CATS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pad"
-            }
-          }
-        ]
-      },
-      {
-        "id": "572dcc8cd8ab5626",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a0e79df78c6879dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worldbuilding/Factions/Morrigon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Morrigon"
+              "title": "CATS"
             }
           }
         ]
@@ -114,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Characters/Pad.md",
+                "file": "DM Screen/CATS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pad"
+              "title": "Backlinks for CATS"
             }
           },
           {
@@ -133,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worldbuilding/Characters/Pad.md",
+                "file": "DM Screen/CATS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pad"
+              "title": "Outgoing links from CATS"
             }
           },
           {
@@ -162,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Characters/Pad.md",
+                "file": "DM Screen/CATS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pad"
+              "title": "Outline of CATS"
             }
           },
           {
@@ -181,8 +161,7 @@
               "title": "Dice Tray"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,11 +184,23 @@
   },
   "active": "ff2ad24a2a9836d3",
   "lastOpenFiles": [
+    "Plot/Brainstorm.md",
+    "Daggerheart/abilities/Teleport.md",
+    "Players/Chrys.md",
+    "Players/Morrigan.md",
+    "Assets/Pictures/Pasted image 20251028000427.png",
+    "Steven Universe Campaign.md",
+    "Assets/Pictures/Pasted image 20251028000130.png",
+    "Worldbuilding/Characters/Mech Man.md",
+    "Worldbuilding/Characters/Auspicious Tingo.md",
+    "Worldbuilding/Characters/Sanchez Hernandez.md",
+    "Assets/Pictures/Pasted image 20251027235400.png",
+    "Worldbuilding/Factions/Chill Dudaz.md",
+    "Worldbuilding/Factions/Morrigon.md",
     "Worldbuilding/Characters/Bis.md",
     "Worldbuilding/Characters/Pad.md",
-    "Pasted image 20251027234319.png",
-    "Worldbuilding/Factions/Morrigon.md",
-    "Worldbuilding/Factions/Chill Dudaz.md",
+    "Assets/Pictures/Pasted image 20251027234319.png",
+    "Assets/Pictures/Pasted image 20251027160135.png",
     "Worldbuilding/Factions/Other Rebellious Factions.md",
     "Worldbuilding/Factions/The Crystal Gems.md",
     "Worldbuilding/Factions/Piratars.md",
@@ -221,25 +212,14 @@
     "Assets/Pictures/Map.png",
     "Worldbuilding/Gems/Gem Social Hierarchy.md",
     "Worldbuilding/Characters/Hollyblue Agate.md",
-    "Worldbuilding/Characters/Sanchez Hernandez.md",
-    "Worldbuilding/Characters/Mech Man.md",
     "Worldbuilding/Characters/Simion Blyat.md",
     "Worldbuilding/Characters/Rose Quartz.md",
     "Worldbuilding/Characters/Johnny Piratehook.md",
     "Worldbuilding/Characters/Tiesto Gambino.md",
-    "Worldbuilding/Characters/Jabada Grey.md",
-    "Worldbuilding/Characters/Shadow Agate.md",
-    "Steven Universe Campaign.md",
-    "Worldbuilding/Locations/Jackson.md",
-    "Worldbuilding/Locations/Catan.md",
-    "Pasted image 20251027232410.png",
-    "Pasted image 20251027232101.png",
-    "Pasted image 20251027231243.png",
-    "Pasted image 20251027230748.png",
-    "Pasted image 20251027160135.png",
-    "Assets/Pictures/Pasted image 20251027124656.png",
-    "Assets/Pictures/Pasted image 20251027133856.png",
-    "Assets/Pictures/Pasted image 20251027154403.png",
+    "Assets/Pictures/Pasted image 20251027232410.png",
+    "Assets/Pictures/Pasted image 20251027232101.png",
+    "Assets/Pictures/Pasted image 20251027231243.png",
+    "Assets/Pictures/Pasted image 20251027230748.png",
     "Assets/Pictures/Unconfirmed 539488.crdownload",
     "Worldbuilding/Gems/Gem Caste/Diamond",
     "Worldbuilding/Gems/Gem Caste/Off-Color",

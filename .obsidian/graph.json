@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "Alien",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2588386562181406,
+  "scale": 0.50876188557921,
   "close": true
 }
