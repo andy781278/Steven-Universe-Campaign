@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Steven Universe Campaign.md",
+                "file": "DM Screen/DM Info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Steven Universe Campaign"
+              "title": "DM Info"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steven Universe Campaign.md",
+                "file": "DM Screen/DM Info.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Steven Universe Campaign"
+              "title": "Backlinks for DM Info"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Steven Universe Campaign.md",
+                "file": "DM Screen/DM Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Steven Universe Campaign"
+              "title": "Outgoing links from DM Info"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Steven Universe Campaign.md",
+                "file": "DM Screen/DM Info.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Steven Universe Campaign"
+              "title": "Outline of DM Info"
             }
           },
           {
@@ -185,8 +185,9 @@
   },
   "active": "880d8e55383ff83a",
   "lastOpenFiles": [
-    "DM Screen/DM Info.md",
     "Steven Universe Campaign.md",
+    "Tools/Encounter Builder.md",
+    "DM Screen/DM Info.md",
     "Worldbuilding/Aliens/Polymorians.md",
     "Plot/Excalidraw/Act 1.excalidraw.md",
     "Worldbuilding/Map.md",
@@ -218,7 +219,6 @@
     "Assets/Pictures/Pasted image 20251027235400.png",
     "Worldbuilding/Factions/Chill Dudaz.md",
     "Worldbuilding/Factions/Morrigon.md",
-    "Worldbuilding/Characters/Bis.md",
     "Assets/Pictures/Pasted image 20251027234319.png",
     "Assets/Pictures/Pasted image 20251027160135.png",
     "Assets/Pictures/Map.png",
