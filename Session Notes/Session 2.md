@@ -10,4 +10,7 @@
 - Morrigan and her crew arrive at Homeworld and lives in her Green House
 - Morrigan meets with Pink, and reports this to her.
 - Yellow calls Morrigan after, asking her to investigate the note by sneaking to Catan and intercepting the meeting.
+- A thing that possibly happened?
+	- Investigated a crime scene of stealing of diamond concentrate
+	- Found out where the dealing continues, in Hunchback
 - They decide to head into the Carina Nebula to reach Catan.

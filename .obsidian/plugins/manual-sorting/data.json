@@ -107,8 +107,11 @@
       "Assets/Pictures/Pasted image 20251027232410.png",
       "Assets/Pictures/Pasted image 20251027234319.png",
       "Assets/Pictures/Pasted image 20251027235400.png",
+      "Assets/Pictures/Pasted image 20251028054931.png",
       "Assets/Pictures/Pasted image 20251028000130.png",
-      "Assets/Pictures/Pasted image 20251028000427.png"
+      "Assets/Pictures/Pasted image 20251028000427.png",
+      "Assets/Pictures/Pasted image 20251028055347.png",
+      "Assets/Pictures/Pasted image 20251028061120.png"
     ],
     "Daggerheart": [
       "Daggerheart/abilities",
@@ -974,7 +977,14 @@
     ],
     "Plot": [
       "Plot/Brainstorm.md",
-      "Plot/Act 1.excalidraw.md"
+      "Plot/Act 1.excalidraw.md",
+      "Plot/Noteworthy Misc"
+    ],
+    "Plot/Noteworthy Misc": [
+      "Plot/Noteworthy Misc/The Green Thumb.md",
+      "Plot/Noteworthy Misc/The Green House.md",
+      "Plot/Noteworthy Misc/Project M.md",
+      "Plot/Noteworthy Misc/Malaise.md"
     ],
     "Session Notes": [
       "Session Notes/Session 1.md",
@@ -1024,7 +1034,8 @@
       "Worldbuilding/Characters/Bis.md",
       "Worldbuilding/Characters/Sanchez Hernandez.md",
       "Worldbuilding/Characters/Auspicious Tingo.md",
-      "Worldbuilding/Characters/Mech Man.md"
+      "Worldbuilding/Characters/Mech Man.md",
+      "Worldbuilding/Characters/Halodor.md"
     ],
     "Worldbuilding/Factions": [
       "Worldbuilding/Factions/The Diamond Authority.md",

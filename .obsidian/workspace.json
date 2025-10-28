@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plot/Brainstorm.md",
+                "file": "DM Screen/DM Info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brainstorm"
-            }
-          }
-        ]
-      },
-      {
-        "id": "29d25222dfffb565",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4b2cfbba6a522fe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Steven Universe Campaign.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Steven Universe Campaign"
+              "title": "DM Info"
             }
           }
         ]
@@ -73,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plot/Brainstorm.md",
+                "file": "DM Screen/DM Info.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Brainstorm"
+              "title": "Outline of DM Info"
             }
           },
           {
@@ -205,32 +185,36 @@
   },
   "active": "8907b9e2fdd18fac",
   "lastOpenFiles": [
-    "Steven Universe Campaign.md",
-    "Plot/Brainstorm.md",
-    "Players/Morrigan.md",
-    "DM Screen/CATS.md",
-    "DM Screen/Battle Guide.md",
-    "DM Screen/DM Info.md",
-    "DM Screen/Example Difficulty.md",
-    "DM Screen/Background Music.md",
-    "Templates/Website Template.md",
-    "Templates/Leaflet Template.md",
-    "Players/Jas Kween.md",
+    "Daggerheart/items/Honing Relic.md",
+    "Daggerheart/abilities/Vicious Entangle.md",
+    "Daggerheart/weapons/Improved Broadsword.md",
+    "Daggerheart/weapons/Firestaff.md",
     "Daggerheart/contents/Downtime.md",
-    "Daggerheart/contents/Combat.md",
-    "Daggerheart/contents/Environments.md",
-    "Daggerheart/contents/Flow of the Game.md",
-    "Daggerheart/contents/GM Guidance.md",
-    "Daggerheart/contents/Leveling Up.md",
-    "Daggerheart/contents/The Basics.md",
-    "Daggerheart/contents/What Is This.md",
-    "Worldbuilding/Locations/Oxoron.md",
-    "Worldbuilding/Aliens/Talubians.md",
-    "Worldbuilding/Map.md",
-    "Worldbuilding/Locations/Solar Dragons.md",
-    "Worldbuilding/Locations/Macan.md",
-    "Worldbuilding/Locations/Fourier Armata.md",
-    "Worldbuilding/Locations/JXJ.md",
+    "Worldbuilding/Timeline.md",
+    "Worldbuilding/Factions/The Diamond Authority.md",
+    "Worldbuilding/Locations/FPC War Zone.md",
+    "Daggerheart/weapons/Warhammer.md",
+    "Daggerheart/adversaries/Monarch.md",
+    "DM Screen/DM Info.md",
+    "Assets/Pictures/Pasted image 20251028061120.png",
+    "Assets/Pictures/Pasted image 20251028054931.png",
+    "Plot/Brainstorm.md",
+    "Worldbuilding/Characters/Halodor.md",
+    "Worldbuilding/Characters/Bis.md",
+    "Worldbuilding/Gems/Gem Caste/Beryl/Heliodor.md",
+    "Steven Universe Campaign.md",
+    "Worldbuilding/Characters/Mech Man.md",
+    "Worldbuilding/Characters/Pad.md",
+    "Worldbuilding/Characters/Shadow Agate.md",
+    "Worldbuilding/Factions/Morrigon.md",
+    "Worldbuilding/Factions/Chill Dudaz.md",
+    "Worldbuilding/Factions/The Free Planets Coalition.md",
+    "Plot/Noteworthy Misc/Malaise.md",
+    "Plot/Noteworthy Misc/Project M.md",
+    "Plot/Noteworthy Misc/The Green House.md",
+    "Plot/Noteworthy Misc/The Green Thumb.md",
+    "Assets/Pictures/Pasted image 20251028055347.png",
+    "Plot/Noteworthy Misc",
     "Excalidraw/Scripts/Downloaded/Darken background color.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -242,14 +226,10 @@
     "Assets/Pictures/Pasted image 20251027234319.png",
     "Assets/Pictures/Pasted image 20251027160135.png",
     "Assets/Pictures/Map.png",
-    "Assets/Pictures/Pasted image 20251027232410.png",
-    "Assets/Pictures/Pasted image 20251027232101.png",
-    "Assets/Pictures/Pasted image 20251027231243.png",
     "Assets/Pictures/Unconfirmed 539488.crdownload",
     "Worldbuilding/Gems/Gem Caste/Diamond",
     "Worldbuilding/Gems/Gem Caste/Off-Color",
     "Worldbuilding/Gems/Gem Caste/Slave",
-    "Worldbuilding/Gems/Gem Caste/Worker",
-    "Worldbuilding/Gems/Gem Caste/Quartz"
+    "Worldbuilding/Gems/Gem Caste/Worker"
   ]
 }
