@@ -3,7 +3,7 @@
   "linkerActivated": true,
   "matchAnyPartsOfWords": false,
   "matchEndOfWords": false,
-  "matchBeginningOfWords": false,
+  "matchBeginningOfWords": true,
   "suppressSuffixForSubWords": false,
   "includeAllFiles": true,
   "linkerDirectories": [

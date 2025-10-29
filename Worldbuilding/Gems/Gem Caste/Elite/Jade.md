@@ -1,3 +1,4 @@
 #Gems/Type #Gems/Elite #Gems/Yellow
-Jades are common aristocratic Gems, high-ranked enough in the established hierarchy to attend the Era 3 Ball in "Together Alone". Jades appear in many different gem types and varieties. Although the different types all have different body types, facial features, gemstones, etc., a common trait many of them share is a small slightly rounded chest, and within Homeworld society, they often wear floor-length dresses. Most types' height is somewhere around that of Pearl, the dancing types being slightly shorter, while the others are taller. They also largely possess downturned, bridged noses, although a few types lack noses or possess small upturned noses.
+Jades are common aristocratic Gems. They are excellent dancers. Their purpose is hosting and participating in social balls and events to boost prestige. They dominate pretty much every ball.
+Appearance wise small, slightly rounded chest, and often wear floor-length dresses. Height is somewhere around that of Pearl. They also largely possess downturned, bridged noses.
 ![[Pasted image 20251027135923.png]]

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "db96b8ecb43943ff",
+        "id": "9a13833a38b872ff",
         "type": "tabs",
         "children": [
           {
-            "id": "8907b9e2fdd18fac",
+            "id": "05572d5b2c14d499",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Locations/Homeworld.md",
+                "file": "Plot/Plot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homeworld"
+              "title": "Plot"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Locations/Homeworld.md",
+                "file": "Plot/Plot.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Homeworld"
+              "title": "Outline of Plot"
             }
           },
           {
@@ -193,53 +193,53 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8907b9e2fdd18fac",
+  "active": "ab4a06ec39cacd82",
   "lastOpenFiles": [
-    "Pasted image 20251029074120.png",
-    "Pasted image 20251029073912.png",
-    "Pasted image 20251028195233.png",
-    "Pasted image 20251028194901.png",
-    "Pasted image 20251028194829.png",
-    "Pasted image 20251028194743.png",
-    "Pasted image 20251028194721.png",
-    "Pasted image 20251028194716.png",
-    "Pasted image 20251028194645.png",
-    "Pasted image 20251028194418.png",
-    "Pasted image 20251028193724.png",
-    "Plot/Brainstorm.md",
-    "Worldbuilding/Characters/Halodor.md",
-    "Worldbuilding/Locations/Homeworld.md",
-    "Worldbuilding/Gems/Gem Caste/Middle/Onyx.md",
-    "Worldbuilding/Gems/Gem Caste/Middle/Zircon.md",
-    "Worldbuilding/Gems/Gem Caste/Middle/Sardonyx.md",
-    "Worldbuilding/Gems/Gem Caste/Middle/Middle.md",
-    "Worldbuilding/Gems/Gem Caste/Middle/Agates.md",
-    "Worldbuilding/Gems/Gem Caste/Beryl/Goshenite.md",
-    "Players/Morrigan.md",
-    "DM Screen/Example Difficulty.md",
-    "DM Screen/DM Info.md",
-    "DM Screen/Background Music.md",
+    "DM Screen/Battles.md",
     "DM Screen/Battle Guide.md",
-    "Players/Jas Kween.md",
-    "Daggerheart/items/Honing Relic.md",
-    "Daggerheart/abilities/Vicious Entangle.md",
-    "Daggerheart/weapons/Improved Broadsword.md",
-    "Daggerheart/weapons/Firestaff.md",
-    "Daggerheart/contents/Downtime.md",
-    "Worldbuilding/Timeline.md",
-    "Worldbuilding/Factions/The Diamond Authority.md",
-    "Worldbuilding/Locations/FPC War Zone.md",
-    "Daggerheart/weapons/Warhammer.md",
-    "Daggerheart/adversaries/Monarch.md",
+    "Steven Universe Campaign.md",
+    "Worldbuilding/Factions/Morrigon.md",
+    "Assets/Pictures/Pasted image 20251028192514.png",
+    "Assets/Pictures/Pasted image 20251028194716.png",
+    "Assets/Pictures/Pasted image 20251029075229.png",
+    "Assets/Pictures/Pasted image 20251028194901.png",
+    "Worldbuilding/Locations/Homeworld.md",
+    "Worldbuilding/Locations/Homeworld Locations/Level 3/Paradise.md",
+    "Worldbuilding/Locations/Homeworld Locations/Level 2/Level 2.md",
+    "Worldbuilding/Locations/Homeworld Locations/Level 2/Data Cubes.md",
+    "Worldbuilding/Locations/Homeworld Locations/Level 2/General Fabrication Sector.md",
+    "Worldbuilding/Locations/Homeworld Locations/Level 3/Garbage Dumps.md",
+    "Worldbuilding/Locations/Homeworld Locations/Level 3/Mega Kindergartens.md",
+    "Worldbuilding/Locations/Homeworld Locations/Level 3/Level 3.md",
+    "Worldbuilding/Locations/Homeworld Locations/Level 2/Administrative Atrium.md",
+    "Worldbuilding/Locations/Homeworld Locations/Level 2/Ship Production Sector.md",
+    "Worldbuilding/Locations/Homeworld Locations/Level 2/Fusion Energy Array.md",
+    "Worldbuilding/Locations/Homeworld Locations/Level 1/Military Sector.md",
+    "Worldbuilding/Locations/Homeworld Locations/Level 1/Beryl Vistas.md",
+    "Worldbuilding/Locations/Homeworld Locations/Level 1/Gilded Stacks.md",
+    "Worldbuilding/Locations/Homeworld Locations/Level 1/Diamond Capital.md",
+    "Worldbuilding/Gems/Gem Caste/Elite/Jade.md",
+    "Worldbuilding/Locations/Homeworld Locations/Level  4/The Core.md",
+    "Worldbuilding/Locations/Homeworld Locations/Level 1/Level 1.md",
+    "Worldbuilding/Gems/Gem Caste/Worker/Worker.md",
+    "Worldbuilding/Gems/Gem Caste/Slave/Slave.md",
+    "Worldbuilding/Gems/Gem Caste/Quartz/Quartz.md",
+    "Worldbuilding/Gems/Gem Caste/Elite/Elite.md",
+    "Worldbuilding/Locations/Homeworld Locations/Level 3/Untitled",
+    "Worldbuilding/Locations/Homeworld Locations/Level  4",
+    "Worldbuilding/Locations/Homeworld Locations/Level 3",
+    "Worldbuilding/Locations/Homeworld Locations/Level 2",
+    "Worldbuilding/Locations/Homeworld Locations/Level 1",
+    "Worldbuilding/Locations/Homeworld Locations",
+    "Assets/Pictures/Pasted image 20251029075121.png",
+    "Assets/Pictures/Pasted image 20251029074120.png",
+    "Assets/Pictures/Pasted image 20251029073912.png",
+    "Assets/Pictures/Pasted image 20251028195233.png",
+    "Assets/Pictures/Pasted image 20251028194829.png",
+    "Assets/Pictures/Pasted image 20251028194743.png",
     "Plot/Noteworthy Misc",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw",
-    "Plot/Excalidraw",
-    "Assets/Pictures/Unconfirmed 539488.crdownload",
-    "Worldbuilding/Gems/Gem Caste/Diamond",
-    "Worldbuilding/Gems/Gem Caste/Off-Color",
-    "Worldbuilding/Gems/Gem Caste/Slave",
-    "Worldbuilding/Gems/Gem Caste/Worker"
+    "Excalidraw"
   ]
 }
