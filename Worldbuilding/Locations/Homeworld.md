@@ -24,8 +24,8 @@ Rows of suspended spherical Estates with customizable atmosphere and other ameni
 ![[Pasted image 20251028192514.png]]
 
 ##### sector
+![[Pasted image 20251029074120.png]]
 
-![[Pasted image 20251028195233.png]]
 #### Level 2
 The bulk of the gem population works here. Middle class and working class, warehouses, factories, managers, coordinators, laborers, builders, machinists, and plain office workers. Most of them live and die within 5 km of their designation their whole life. They have rest times, but it is held in communion barracks. Monotonous. Their jobs usually does not require them to go anywhere else, and thus they can't and don't.
 ![[Pasted image 20251028194418.png]]
@@ -37,9 +37,11 @@ The bulk of the gem population works here. Middle class and working class, wareh
 Mega Kindergartens spanning hundreds of thousands of miles long. Most of it is tapped dry and left to be abandoned. Some parts are still functioning and producing gems, but this is not a priority of the DA in any form. Off-Colors who were deemed worthless often hide within these kindergartens to avoid shattering.
 ![[Pasted image 20251028193525.png]]
 ![[Pasted image 20251028194829.png]]
+
+![[Pasted image 20251028195233.png]]
 #### Level 4
 The Core is the most secure region in any DA territory. It is a zero-g spherical structure built with the strongest metals. It contains the mothergem that powers homeworld, and is constantly guarded by swarms of droids and soldiers. This level is hidden away from the public, and rarely anyone knows about it. Any gem who discovers it is immediately arrested and executed, no one can know.
-
+![[Pasted image 20251029073912.png]]
 ### Events
 **Social Event** - Elite gems randomly get asked to attend social events like balls or gatherings. Participants are usually other elite gems, but they often bring bodyguards and +1s that are within their circle. Useful for knowledge gain, building connections, and asking for favors.
 Attendees: Goshenite, Heliodor, Emerald, Morganite, Aquamarine, Lapis Lazulis, Sapphire, Opal, Moonstone, Pearl (servant), Ruby/Quartz (bodyguard).  
