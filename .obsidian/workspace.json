@@ -157,11 +157,22 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "8d6d80568b6a98fb",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,22 +185,35 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "random-note:Open random note": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian42-brat:BRAT": false,
-      "random-note:Open random note": false
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "8907b9e2fdd18fac",
   "lastOpenFiles": [
+    "Pasted image 20251028195233.png",
+    "Pasted image 20251028194901.png",
+    "Pasted image 20251028194829.png",
+    "Pasted image 20251028194743.png",
+    "Pasted image 20251028194721.png",
+    "Pasted image 20251028194716.png",
+    "Pasted image 20251028194645.png",
+    "Pasted image 20251028194418.png",
+    "Pasted image 20251028193724.png",
+    "Pasted image 20251028193525.png",
+    "Pasted image 20251028193128.png",
+    "Plot/Brainstorm.md",
+    "Worldbuilding/Characters/Halodor.md",
+    "Worldbuilding/Locations/Homeworld.md",
     "Worldbuilding/Gems/Gem Caste/Middle/Onyx.md",
     "Worldbuilding/Gems/Gem Caste/Middle/Zircon.md",
     "Worldbuilding/Gems/Gem Caste/Middle/Sardonyx.md",
     "Worldbuilding/Gems/Gem Caste/Middle/Middle.md",
     "Worldbuilding/Gems/Gem Caste/Middle/Agates.md",
-    "Worldbuilding/Locations/Homeworld.md",
     "Worldbuilding/Gems/Gem Caste/Beryl/Goshenite.md",
     "Players/Morrigan.md",
     "DM Screen/Example Difficulty.md",
@@ -207,24 +231,11 @@
     "Worldbuilding/Locations/FPC War Zone.md",
     "Daggerheart/weapons/Warhammer.md",
     "Daggerheart/adversaries/Monarch.md",
-    "Assets/Pictures/Pasted image 20251028061120.png",
-    "Assets/Pictures/Pasted image 20251028054931.png",
-    "Plot/Brainstorm.md",
-    "Worldbuilding/Characters/Halodor.md",
-    "Worldbuilding/Characters/Bis.md",
-    "Assets/Pictures/Pasted image 20251028055347.png",
     "Plot/Noteworthy Misc",
-    "Excalidraw/Scripts/Downloaded/Darken background color.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
     "Plot/Excalidraw",
-    "Assets/Pictures/Pasted image 20251028000427.png",
-    "Assets/Pictures/Pasted image 20251028000130.png",
-    "Assets/Pictures/Pasted image 20251027235400.png",
-    "Assets/Pictures/Pasted image 20251027234319.png",
-    "Assets/Pictures/Pasted image 20251027160135.png",
-    "Assets/Pictures/Map.png",
     "Assets/Pictures/Unconfirmed 539488.crdownload",
     "Worldbuilding/Gems/Gem Caste/Diamond",
     "Worldbuilding/Gems/Gem Caste/Off-Color",

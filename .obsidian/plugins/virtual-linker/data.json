@@ -31,7 +31,7 @@
   "fixIMEProblem": false,
   "excludeLinksInCurrentLine": true,
   "onlyLinkOnce": false,
-  "excludeLinksToRealLinkedFiles": true,
+  "excludeLinksToRealLinkedFiles": false,
   "includeAliases": true,
   "alwaysShowMultipleReferences": false
 }
