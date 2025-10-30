@@ -1025,7 +1025,8 @@
       "Worldbuilding/Aliens",
       "Worldbuilding/Factions",
       "Worldbuilding/Locations",
-      "Worldbuilding/Characters"
+      "Worldbuilding/Characters",
+      "Worldbuilding/Currency.md"
     ],
     "Worldbuilding/Aliens": [
       "Worldbuilding/Aliens/Aliens.md",

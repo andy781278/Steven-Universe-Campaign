@@ -4,6 +4,7 @@ The Gem Empire operates as an absolute, centralized Theocratic Dictatorship wher
 Economy & Labor
 
 - Trade, and Currency: Gems are manufactured for specific jobs and require no sustenance besides a proximity to sunlight. That being said, having such things is quite useful. Money can be used as a drive for Gems to motivate them, gems do get tired and do yearn for leisure/commodities, money can be used to better control the gems. Selective rewards to high-performing gems generate competition, the caste system can be more stable if the nobles literally have more money, and thus more power in society beyond honorifics. Furthermore, trading with other non-gem civilizations for resources they lack is not a terrible idea, and is done often, even though most of them are at war with them.
+ ^ef8a80
 - The currency for gems is called Radianites, or Rads for short. Radianites are similar in buying power to USD.
 - Colonies are resource farms: Planets are strip-mined to produce more Gems.
 - Ultimate Diamond Authority: You don’t own anything, the Diamonds own you and everything you have, they technically let you have access to them until they don’t feel like it anymore, the ultimate call is up to them.
