@@ -13,3 +13,4 @@ Morrigan: 23
 Kris: Crit
 No King: 15
 Chrys: 18
+jjj

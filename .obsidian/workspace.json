@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Gems/Gem Court Culture.md",
+                "file": "Session Notes/Session 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gem Court Culture"
+              "title": "Backlinks for Session 3"
             }
           },
           {
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Gems/Gem Court Culture.md",
+                "file": "Session Notes/Session 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gem Court Culture"
+              "title": "Outline of Session 3"
             }
           },
           {
@@ -248,8 +248,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a648170eab17ec2a",
+  "active": "892fd3acd20f7288",
   "lastOpenFiles": [
+    "Worldbuilding/Factions/Chill Dudaz.md",
+    "Session Notes/Session 3.md",
+    "Worldbuilding/Gems/Gem Court Culture.md",
     "Worldbuilding/Gems/Gem Population.md",
     "Worldbuilding/Gems/Gem Society Logistics.md",
     "Worldbuilding/Gems/Gem Government.md",
@@ -257,7 +260,6 @@
     "Worldbuilding/Locations/Homeworld.md",
     "Worldbuilding/Currency.md",
     "Plot/Act 1.excalidraw.md",
-    "Session Notes/Session 3.md",
     "Worldbuilding/Map.md",
     "DM Screen/DM Info.md",
     "Worldbuilding/Locations/Catan.md",
@@ -274,8 +276,6 @@
     "Daggerheart/items/Minor Stamina Potion Recipe.md",
     "Daggerheart/items/Homing Compasses.md",
     "Daggerheart/items/Flickerfly Pendant.md",
-    "Daggerheart/items/Calming Pendant.md",
-    "Tools/Encounter Builder.md",
     "Assets/Pictures/Pasted image 20251028192514.png",
     "Assets/Pictures/Pasted image 20251028194716.png",
     "Assets/Pictures/Pasted image 20251029075229.png",
