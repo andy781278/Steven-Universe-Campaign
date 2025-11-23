@@ -1014,8 +1014,10 @@
     ],
     "Tools": [
       "Tools/Demiplane Characters.md",
-      "Tools/Encounter Builder.md"
+      "Tools/Encounter Builder.md",
+      "Tools/Excalidraw"
     ],
+    "Tools/Excalidraw": [],
     "Worldbuilding": [
       "Worldbuilding/Map.md",
       "Worldbuilding/Timeline.md",
