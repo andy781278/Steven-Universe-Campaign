@@ -25,4 +25,4 @@ Snaples do not contact any other race, and only pop in with wormholes from time 
 They usually kill other races on-sight, but some are chill enough to live amongst others in free-planets, but they are still very cold and elusive.
 Physically, Snaples are dominating but not overly so, 6-7 ft in height, and usually muscular but not stronger than elite quarts. 
 
-Snaples are each carefully genetically designed and grown in labs. They are stripped of any potentially-dangerous thoughts to the Snaples, and exist only to benefit their society. They are made to conform and follow orders.  
+Snaples are each carefully genetically designed and grown in labs. They are stripped of any potentially-dangerous thoughts to the Snaples, and exist only to benefit their society. They are made to conform and follow orders.

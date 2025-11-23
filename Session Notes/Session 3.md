@@ -8,3 +8,8 @@ Expected Events:
 - They can also salvage their old ship and repair it
 - They arrive in Catan and do the events in Catan
 - Maybe introduction to Morrigon, Chill Dudaz important figures
+
+Morrigan: 23
+Kris: Crit
+No King: 15
+Chrys: 18

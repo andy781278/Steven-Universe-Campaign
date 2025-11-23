@@ -112,6 +112,7 @@
       "Assets/Pictures/Pasted image 20251028000427.png",
       "Assets/Pictures/Pasted image 20251028055347.png",
       "Assets/Pictures/Pasted image 20251028061120.png",
+      "Assets/Pictures/Pasted image 20251028163108.png",
       "Assets/Pictures/Pasted image 20251028192514.png",
       "Assets/Pictures/Pasted image 20251028193128.png",
       "Assets/Pictures/Pasted image 20251028193525.png",
@@ -127,8 +128,7 @@
       "Assets/Pictures/Pasted image 20251029073912.png",
       "Assets/Pictures/Pasted image 20251029074120.png",
       "Assets/Pictures/Pasted image 20251029075121.png",
-      "Assets/Pictures/Pasted image 20251029075229.png",
-      "Assets/Pictures/Pasted image 20251028163108.png"
+      "Assets/Pictures/Pasted image 20251029075229.png"
     ],
     "Daggerheart": [
       "Daggerheart/abilities",
@@ -993,9 +993,9 @@
       "Players/Player Gem Rules/Photokinetic.md"
     ],
     "Plot": [
-      "Plot/Plot.md",
       "Plot/Act 1.excalidraw.md",
-      "Plot/Noteworthy Misc"
+      "Plot/Noteworthy Misc",
+      "Plot/Plot.md"
     ],
     "Plot/Noteworthy Misc": [
       "Plot/Noteworthy Misc/The Green Thumb.md",
@@ -1014,10 +1014,8 @@
     ],
     "Tools": [
       "Tools/Demiplane Characters.md",
-      "Tools/Encounter Builder.md",
-      "Tools/Excalidraw"
+      "Tools/Encounter Builder.md"
     ],
-    "Tools/Excalidraw": [],
     "Worldbuilding": [
       "Worldbuilding/Map.md",
       "Worldbuilding/Timeline.md",
@@ -1160,7 +1158,6 @@
     ],
     "Worldbuilding/Locations": [
       "Worldbuilding/Locations/Homeworld.md",
-      "Worldbuilding/Locations/Homeworld Locations",
       "Worldbuilding/Locations/Jackson.md",
       "Worldbuilding/Locations/Space Tear Exclusion Zone.md",
       "Worldbuilding/Locations/Lyncaster Supernova.md",
@@ -1174,36 +1171,37 @@
       "Worldbuilding/Locations/Fourier Armata.md",
       "Worldbuilding/Locations/Macan.md",
       "Worldbuilding/Locations/Solar Dragons.md",
-      "Worldbuilding/Locations/Oxoron.md"
+      "Worldbuilding/Locations/Oxoron.md",
+      "Worldbuilding/Locations/Homeworld Locations"
     ],
     "Worldbuilding/Locations/Homeworld Locations": [
+      "Worldbuilding/Locations/Homeworld Locations/Level  4",
       "Worldbuilding/Locations/Homeworld Locations/Level 1",
       "Worldbuilding/Locations/Homeworld Locations/Level 2",
-      "Worldbuilding/Locations/Homeworld Locations/Level 3",
-      "Worldbuilding/Locations/Homeworld Locations/Level  4"
+      "Worldbuilding/Locations/Homeworld Locations/Level 3"
     ],
     "Worldbuilding/Locations/Homeworld Locations/Level  4": [
       "Worldbuilding/Locations/Homeworld Locations/Level  4/The Core.md"
     ],
     "Worldbuilding/Locations/Homeworld Locations/Level 1": [
-      "Worldbuilding/Locations/Homeworld Locations/Level 1/Level 1.md",
+      "Worldbuilding/Locations/Homeworld Locations/Level 1/Beryl Vistas.md",
       "Worldbuilding/Locations/Homeworld Locations/Level 1/Diamond Capital.md",
       "Worldbuilding/Locations/Homeworld Locations/Level 1/Gilded Stacks.md",
-      "Worldbuilding/Locations/Homeworld Locations/Level 1/Beryl Vistas.md",
+      "Worldbuilding/Locations/Homeworld Locations/Level 1/Level 1.md",
       "Worldbuilding/Locations/Homeworld Locations/Level 1/Military Sector.md"
     ],
     "Worldbuilding/Locations/Homeworld Locations/Level 2": [
-      "Worldbuilding/Locations/Homeworld Locations/Level 2/Level 2.md",
-      "Worldbuilding/Locations/Homeworld Locations/Level 2/Fusion Energy Array.md",
-      "Worldbuilding/Locations/Homeworld Locations/Level 2/Ship Production Sector.md",
       "Worldbuilding/Locations/Homeworld Locations/Level 2/Administrative Atrium.md",
       "Worldbuilding/Locations/Homeworld Locations/Level 2/Data Cubes.md",
-      "Worldbuilding/Locations/Homeworld Locations/Level 2/General Fabrication Sector.md"
+      "Worldbuilding/Locations/Homeworld Locations/Level 2/Fusion Energy Array.md",
+      "Worldbuilding/Locations/Homeworld Locations/Level 2/General Fabrication Sector.md",
+      "Worldbuilding/Locations/Homeworld Locations/Level 2/Level 2.md",
+      "Worldbuilding/Locations/Homeworld Locations/Level 2/Ship Production Sector.md"
     ],
     "Worldbuilding/Locations/Homeworld Locations/Level 3": [
+      "Worldbuilding/Locations/Homeworld Locations/Level 3/Garbage Dumps.md",
       "Worldbuilding/Locations/Homeworld Locations/Level 3/Level 3.md",
       "Worldbuilding/Locations/Homeworld Locations/Level 3/Mega Kindergartens.md",
-      "Worldbuilding/Locations/Homeworld Locations/Level 3/Garbage Dumps.md",
       "Worldbuilding/Locations/Homeworld Locations/Level 3/Paradise.md"
     ]
   },
